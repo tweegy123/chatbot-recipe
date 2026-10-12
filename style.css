@@ -1,0 +1,42 @@
+:root {
+  --bg: #f1f1f1; --panel: #ffffff; --ink: #1d2a23; --muted: #5d6b63;
+  --line: #cdd9d1; --herb: #2f6b4a; --tomato: #d6402c;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: "Bricolage Grotesque", system-ui, sans-serif; line-height: 1.5;
+  display: flex; justify-content: center;
+}
+.app { width: 100%; max-width: 720px; height: 100%; display: flex; flex-direction: column; padding: 20px 16px 16px; }
+header h1 { margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: -0.02em; }
+header p { margin: 2px 0 14px; color: var(--muted); }
+
+.log {
+  flex: 1; overflow-y: auto; background: var(--panel); border: 1px solid var(--line);
+  border-radius: 14px; padding: 16px; display: flex; flex-direction: column; gap: 14px;
+}
+.msg { max-width: 92%; }
+.msg p { margin: 0; }
+.msg.user { align-self: flex-end; background: var(--ink); color: #fff; padding: 8px 14px; border-radius: 16px 16px 4px 16px; }
+.msg.bot { align-self: flex-start; }
+.msg.bot > p { margin-bottom: 8px; }
+
+.card { border: 1px solid var(--line); border-left: 4px solid var(--tomato); border-radius: 8px; padding: 12px 14px; margin-top: 8px; background: #fbfdfb; }
+.card h3 { margin: 0; font-size: 1.15rem; }
+.card h4 { margin: 12px 0 4px; font-size: 0.95rem; color: var(--herb); }
+.card ul, .card ol { margin: 0; padding-left: 20px; }
+.meta { color: var(--muted); font-size: 0.9rem; }
+.have { color: var(--herb); margin: 6px 0 0; font-size: 0.95rem; }
+.miss { color: var(--tomato); margin: 2px 0 0; font-size: 0.95rem; }
+button.link { margin-top: 8px; background: none; border: 0; padding: 0; color: var(--herb); font: inherit; font-weight: 600; text-decoration: underline; cursor: pointer; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.chips button { font: inherit; font-size: 0.9rem; background: transparent; color: var(--ink); border: 1px solid var(--herb); border-radius: 999px; padding: 4px 12px; cursor: pointer; }
+.chips button:hover { background: var(--herb); color: #fff; }
+
+.composer { display: flex; gap: 8px; }
+.composer input { flex: 1; font: inherit; padding: 10px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); }
+.composer button { font: inherit; font-weight: 600; padding: 10px 20px; border: 0; border-radius: 10px; background: var(--tomato); color: #fff; cursor: pointer; }
+button:focus-visible, input:focus-visible { outline: 3px solid var(--herb); outline-offset: 2px; }

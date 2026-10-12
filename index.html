@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recipe Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Recipe Ni ABDUL MALIC Finder</h1>
+      <p>Tell me what you have. I will tell you what to cook.</p>
+    </header>
+    <section id="log" class="log" aria-live="polite"></section>
+    <div class="chips" id="chips">
+      <button>I have chicken, garlic and rice</button>
+      <button>Quick vegetarian meals</button>
+      <button>Recipe for pancakes</button>
+      <button>Surprise me</button>
+    </div>
+    <form id="form" class="composer">
+      <input id="input" type="text" placeholder="example/: I have eggs, tomato and cheese" autocomplete="off" maxlength="300" aria-label="Message">
+      <button type="submit">Send</button>
+    </form>
+  </main>
+
+  <script>
+    const log = document.getElementById('log');
+    const form = document.getElementById('form');
+    const input = document.getElementById('input');
+
+    function el(tag, cls, text) {
+      const e = document.createElement(tag);
+      if (cls) e.className = cls;
+      if (text !== undefined) e.textContent = text;
+      return e;
+    }
+    function scrollDown() { log.scrollTop = log.scrollHeight; }
+    function addMsg(who, text) {
+      const m = el('div', 'msg ' + who);
+      m.appendChild(el('p', null, text));
+      log.appendChild(m);
+      scrollDown();
+      return m;
+    }
+    function list(tag, items) {
+      const l = el(tag);
+      items.forEach(i => l.appendChild(el('li', null, i)));
+      return l;
+    }
+    function card(r, full) {
+      const c = el('article', 'card');
+      c.appendChild(el('h3', null, r.name));
+      c.appendChild(el('p', 'meta', `${r.time} min, ${r.servings}  |  ${r.tags.join(', ')}`));
+      if (r.have) {
+        if (r.have.length) c.appendChild(el('p', 'have', 'You have: ' + r.have.join(', ')));
+        c.appendChild(el('p', 'miss', r.missing.length ? 'Still need: ' + r.missing.join(', ') : 'You have everything.'));
+      }
+      if (full) {
+        c.appendChild(el('h4', null, 'Ingredients'));
+        c.appendChild(list('ul', r.ingredients));
+        c.appendChild(el('h4', null, 'Steps'));
+        c.appendChild(list('ol', r.steps));
+      } else {
+        const b = el('button', 'link', 'See recipe');
+        b.onclick = () => send('recipe for ' + r.name);
+        c.appendChild(b);
+      }
+      return c;
+    }
+    async function send(text) {
+      addMsg('user', text);
+      try {
+        const res = await fetch('chat.py', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({message: text})
+        });
+        const d = await res.json();
+        const m = addMsg('bot', d.reply);
+        (d.recipes || []).forEach(r => m.appendChild(card(r, d.full)));
+      } catch (e) {
+        addMsg('bot', location.protocol === 'file:'
+          
+        );
+      }
+      scrollDown();
+    }
+    form.addEventListener('submit', e => {
+      e.preventDefault();
+      const t = input.value.trim();
+      if (!t) return;
+      input.value = '';
+      send(t);
+    });
+    document.getElementById('chips').addEventListener('click', e => {
+      if (e.target.tagName === 'BUTTON') send(e.target.textContent);
+    });
+    addMsg('bot', 'Hi! What ingredients do you have? Pick a suggestion below or type your own.');
+  </script>
+</body>
+</html>
