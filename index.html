@@ -83,9 +83,7 @@
         const m = addMsg('bot', d.reply);
         (d.recipes || []).forEach(r => m.appendChild(card(r, d.full)));
       } catch (e) {
-        addMsg('bot', location.protocol === 'file:'
-          
-        );
+        addMsg('bot', 'Sorry, I cannot reach the server right now. Please try again in a moment.');
       }
       scrollDown();
     }
