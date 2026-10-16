@@ -70,52 +70,6 @@
    "Add the kangkong, cook 2 minutes and serve hot."
   ]
  },
-  "name": "Chicken Afritada",
-  "time": 40,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "stew"
-  ],
-  "ingredients": [
-   {
-    "qty": "400 g",
-    "name": "chicken"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "2",
-    "name": "potato"
-   },
-   {
-    "qty": "2",
-    "name": "carrot"
-   },
-   {
-    "qty": "1",
-    "name": "bell pepper"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Sauté the garlic and onion in oil, then add the chicken and brown it lightly.",
-   "Add the tomato and 1 cup of water and simmer until the chicken is almost tender.",
-   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
-  ]
  {
   "name": "Chicken and Carrot Stir-Fry",
   "time": 20,
