@@ -1,4 +1,5 @@
 #!C:/Users/Jelly/AppData/Local/Python/pythoncore-3.14-64/python.exe
+"""Recipe Finder chatbot: Python CGI script for XAMPP, recipes.json as the database."""
 import json
 import os
 import sys
@@ -8,7 +9,10 @@ from pathlib import Path
 
 BASE = Path(os.path.abspath(__file__)).parent
 RECIPES = json.loads((BASE / "database.json").read_text(encoding="utf-8"))
-PANTRY = {"salt", "pepper", "oil", "water", "sugar"} 
+PANTRY = {"salt", "pepper", "oil", "water", "sugar"}  # assumed to be in every kitchen
+MEAT = {"chicken", "pork", "beef", "shrimp", "tuna", "bacon", "sausage", "ham", "fish", "salmon", "squid", "oyster"}
+DAIRY_EGG = {"egg", "cheese", "milk", "butter", "cream", "honey"}  # vegetarian but not vegan
+
 HELP = ('Hi! Tell me what is in your kitchen, like "I have chicken, garlic and rice". '
         'You can also ask for a recipe by name, or try "quick vegetarian meals" or "surprise me". '
         'I assume you always have salt, pepper, oil, water and sugar.')
@@ -30,16 +34,20 @@ def tokens(text):
 
 
 KEYNAME = {}
-for r in RECIPES: 
+for r in RECIPES:  # precompute search keys once at startup
     r["_name_words"] = set(tokens(r["name"]))
     for ing in r["ingredients"]:
-        ing["_key"] = tokens(ing["name"])[0]  
+        ing["_key"] = tokens(ing["name"])[0]  # 'soy sauce' -> 'soy'
         KEYNAME.setdefault(ing["_key"], ing["name"])
+for r in RECIPES:  # diet is worked out from the ingredients
+    keys = {i["_key"] for i in r["ingredients"]}
+    r["_vegetarian"] = not keys & MEAT
+    r["_vegan"] = r["_vegetarian"] and not keys & DAIRY_EGG
 VOCAB = {i["_key"] for r in RECIPES for i in r["ingredients"]} - PANTRY
 
 
 def card(r, have=None):
-    data = {"name": r["name"], "time": r["time"], "servings": r["servings"], "tags": r["tags"],
+    data = {"name": r["name"], "time": r["time"],
             "ingredients": [f'{i["qty"]} {i["name"]}' for i in r["ingredients"]], "steps": r["steps"]}
     if have is not None:
         needed = [i for i in r["ingredients"] if i["_key"] not in PANTRY]
@@ -48,7 +56,8 @@ def card(r, have=None):
     return data
 
 
-def find_by_ingredients(have, pool, limit=5):
+def find_by_ingredients(have, pool):
+    """Split recipes into 'ready to cook' (nothing missing) and 'close' (missing a few)."""
     ready, close = [], []
     for r in pool:
         needed = [i for i in r["ingredients"] if i["_key"] not in PANTRY]
@@ -56,10 +65,10 @@ def find_by_ingredients(have, pool, limit=5):
         if hits:
             missing = len(needed) - hits
             (ready if missing == 0 else close).append((-hits, missing, r["time"], r))
-    ready.sort(key=lambda t: t[:3])  
+    ready.sort(key=lambda t: t[:3])  # uses the most of your ingredients first
     close.sort(key=lambda t: t[:3])
-    ready = [t[3] for t in ready][:4]
-    close = [t[3] for t in close][:limit - len(ready)]
+    ready = [t[3] for t in ready]
+    close = [t[3] for t in close]
     return ready, close
 
 
@@ -72,18 +81,18 @@ def reply_to(message):
     if not toks or (words & {"hi", "hello", "hey", "help"} and not have):
         return {"reply": HELP}
 
-    #1.Recipe by name
+    # 1. Recipe by name
     for r in RECIPES:
         distinct = {w for w in r["_name_words"] if w not in VOCAB and len(w) > 3}
         full = r["_name_words"] <= words
         if (full and (distinct or cue or not (have - r["_name_words"]))) or (distinct & words and (cue or not have)):
             return {"reply": f"Here is how to make {r['name']}:", "recipes": [card(r)], "full": True}
 
-    # 2.Filters sa mga Diet Meals for Good healths
+    # 2. Filters: diet and time
     pool, filters = RECIPES, []
     for diet in ("vegan", "vegetarian"):
         if diet in words:
-            pool = [r for r in pool if diet in r["tags"]]
+            pool = [r for r in pool if r["_" + diet]]
             filters.append(diet)
             break
     m = re.search(r"(\d+)\s*(?:min|minute)", message.lower())
@@ -92,11 +101,11 @@ def reply_to(message):
         pool = [r for r in pool if r["time"] <= limit]
         filters.append(f"under {limit} minutes")
 
-    # 3.Surprise me 'randoms for walang maisip na maluto'
+    # 3. Surprise me
     if words & {"surprise", "random"} and pool:
         return {"reply": "How about this one?", "recipes": [card(random.choice(pool))], "full": True}
 
-    # 4. Search Find the igredients 'finder'
+    # 4. Search by ingredients
     if have:
         ready, close = find_by_ingredients(have, pool)
         if ready or close:
@@ -113,11 +122,11 @@ def reply_to(message):
             return {"reply": msg, "recipes": [card(r, have) for r in ready + close]}
         return {"reply": "None of my recipes match those yet. Try adding another ingredient."}
 
-    # 5. Matching browse 'pang hanap hanap ba'
+    # 5. Browse by filter only
     if filters:
         if not pool:
             return {"reply": "No recipes match that. Try a longer time or a different diet."}
-        picks = sorted(pool, key=lambda r: r["time"])[:4]
+        picks = sorted(pool, key=lambda r: r["time"])
         return {"reply": f"Here are some {' and '.join(filters)} options:", "recipes": [card(r) for r in picks]}
 
     return {"reply": "I did not catch that. " + HELP}

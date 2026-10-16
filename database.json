@@ -81,6 +81,54 @@
   ]
  },
  {
+  "name": "Chicken Afritada",
+  "time": 40,
+  "servings": 4,
+  "tags": [
+   "filipino",
+   "stew"
+  ],
+  "ingredients": [
+   {
+    "qty": "400 g",
+    "name": "chicken"
+   },
+   {
+    "qty": "2",
+    "name": "tomato"
+   },
+   {
+    "qty": "2",
+    "name": "potato"
+   },
+   {
+    "qty": "2",
+    "name": "carrot"
+   },
+   {
+    "qty": "1",
+    "name": "bell pepper"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Sauté the garlic and onion in oil, then add the chicken and brown it lightly.",
+   "Add the tomato and 1 cup of water and simmer until the chicken is almost tender.",
+   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
+  ]
+ },
+ {
   "name": "Chicken and Carrot Stir-Fry",
   "time": 20,
   "servings": 3,
@@ -709,6 +757,54 @@
    "Add the radish and cook 5 minutes.",
    "Stir in the tamarind mix and season to taste.",
    "Add the kangkong, cook 2 minutes and serve hot."
+  ]
+ },
+ {
+  "name": "Pork Afritada",
+  "time": 55,
+  "servings": 4,
+  "tags": [
+   "filipino",
+   "stew"
+  ],
+  "ingredients": [
+   {
+    "qty": "400 g",
+    "name": "pork"
+   },
+   {
+    "qty": "2",
+    "name": "tomato"
+   },
+   {
+    "qty": "2",
+    "name": "potato"
+   },
+   {
+    "qty": "2",
+    "name": "carrot"
+   },
+   {
+    "qty": "1",
+    "name": "bell pepper"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Sauté the garlic and onion in oil, then add the pork and brown it lightly.",
+   "Add the tomato and 1 cup of water and simmer until the pork is almost tender.",
+   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
   ]
  },
  {
@@ -1341,6 +1437,54 @@
    "Add the radish and cook 5 minutes.",
    "Stir in the tamarind mix and season to taste.",
    "Add the kangkong, cook 2 minutes and serve hot."
+  ]
+ },
+ {
+  "name": "Beef Afritada",
+  "time": 80,
+  "servings": 4,
+  "tags": [
+   "filipino",
+   "stew"
+  ],
+  "ingredients": [
+   {
+    "qty": "400 g",
+    "name": "beef"
+   },
+   {
+    "qty": "2",
+    "name": "tomato"
+   },
+   {
+    "qty": "2",
+    "name": "potato"
+   },
+   {
+    "qty": "2",
+    "name": "carrot"
+   },
+   {
+    "qty": "1",
+    "name": "bell pepper"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Sauté the garlic and onion in oil, then add the beef and brown it lightly.",
+   "Add the tomato and 1 cup of water and simmer until the beef is almost tender.",
+   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
   ]
  },
  {
@@ -1980,6 +2124,56 @@
   ]
  },
  {
+  "name": "Tofu Afritada",
+  "time": 40,
+  "servings": 4,
+  "tags": [
+   "filipino",
+   "stew",
+   "vegetarian",
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "qty": "1 block",
+    "name": "tofu"
+   },
+   {
+    "qty": "2",
+    "name": "tomato"
+   },
+   {
+    "qty": "2",
+    "name": "potato"
+   },
+   {
+    "qty": "2",
+    "name": "carrot"
+   },
+   {
+    "qty": "1",
+    "name": "bell pepper"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Sauté the garlic and onion in oil, then add the tofu and brown it lightly.",
+   "Add the tomato and 1 cup of water and simmer until the tofu is almost tender.",
+   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
+  ]
+ },
+ {
   "name": "Chicken and Bell Pepper Stir-Fry",
   "time": 20,
   "servings": 3,
@@ -2614,6 +2808,54 @@
   ]
  },
  {
+  "name": "Fish Afritada",
+  "time": 40,
+  "servings": 4,
+  "tags": [
+   "filipino",
+   "stew"
+  ],
+  "ingredients": [
+   {
+    "qty": "400 g",
+    "name": "fish"
+   },
+   {
+    "qty": "2",
+    "name": "tomato"
+   },
+   {
+    "qty": "2",
+    "name": "potato"
+   },
+   {
+    "qty": "2",
+    "name": "carrot"
+   },
+   {
+    "qty": "1",
+    "name": "bell pepper"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Sauté the garlic and onion in oil, then add the fish and brown it lightly.",
+   "Add the tomato and 1 cup of water and simmer until the fish is almost tender.",
+   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
+  ]
+ },
+ {
   "name": "Chicken and Mushroom Stir-Fry",
   "time": 20,
   "servings": 3,
@@ -3138,32 +3380,43 @@
   ]
  },
  {
-  "name": "Pineapple Smoothie",
-  "time": 10,
-  "servings": 1,
+  "name": "Chicken Congee",
+  "time": 45,
+  "servings": 3,
   "tags": [
-   "drink",
-   "quick",
-   "vegetarian"
+   "soup",
+   "rice"
   ],
   "ingredients": [
    {
-    "qty": "1 cup",
-    "name": "pineapple"
+    "qty": "400 g",
+    "name": "chicken"
    },
    {
-    "qty": "1 cup",
-    "name": "milk"
+    "qty": "1 thumb",
+    "name": "ginger"
    },
    {
-    "qty": "1 tbsp",
-    "name": "honey"
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
    }
   ],
   "steps": [
-   "Peel and chop the pineapple.",
-   "Blend with the milk and honey until smooth.",
-   "Pour and serve cold."
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the chicken, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
   ]
  },
  {
@@ -3782,32 +4035,44 @@
   ]
  },
  {
-  "name": "Blueberry Smoothie",
-  "time": 10,
-  "servings": 1,
+  "name": "Egg Congee",
+  "time": 35,
+  "servings": 3,
   "tags": [
-   "drink",
-   "quick",
+   "soup",
+   "rice",
    "vegetarian"
   ],
   "ingredients": [
    {
-    "qty": "1/2 cup",
-    "name": "blueberry"
+    "qty": "2",
+    "name": "egg"
    },
    {
-    "qty": "1 cup",
-    "name": "milk"
+    "qty": "1 thumb",
+    "name": "ginger"
    },
    {
-    "qty": "1 tbsp",
-    "name": "honey"
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
    }
   ],
   "steps": [
-   "Peel and chop the blueberry.",
-   "Blend with the milk and honey until smooth.",
-   "Pour and serve cold."
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the egg, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
   ]
  },
  {
@@ -3850,8 +4115,8 @@
   ]
  },
  {
-  "name": "Pork and Carrot Stir-Fry",
-  "time": 25,
+  "name": "Chicken and Tomato Stir-Fry",
+  "time": 20,
   "servings": 3,
   "tags": [
    "quick"
@@ -3859,19 +4124,19 @@
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "pork"
+    "name": "chicken"
    },
    {
     "qty": "2",
-    "name": "carrot"
+    "name": "tomato"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -3879,9 +4144,9 @@
    }
   ],
   "steps": [
-   "Slice the pork and carrot into bite-size pieces.",
-   "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
+   "Slice the chicken and tomato into bite-size pieces.",
+   "Stir-fry the garlic and chicken in hot oil until cooked through.",
+   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -4338,23 +4603,23 @@
   ]
  },
  {
-  "name": "Potato Hash with Corn",
-  "time": 25,
+  "name": "Garlic Sauteed Broccoli",
+  "time": 12,
   "servings": 2,
   "tags": [
-   "breakfast",
+   "side",
    "quick",
    "vegetarian",
    "vegan"
   ],
   "ingredients": [
    {
-    "qty": "2",
-    "name": "potato"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
-    "qty": "1 cup",
-    "name": "corn"
+    "qty": "4 cloves",
+    "name": "garlic"
    },
    {
     "qty": "1",
@@ -4370,38 +4635,49 @@
    }
   ],
   "steps": [
-   "Dice the potatoes small and pan-fry in oil until golden, about 12 minutes.",
-   "Add the corn and the rest of the aromatics and cook 5 minutes.",
-   "Season with salt and serve hot."
+   "Heat oil and sauté the garlic and onion until fragrant.",
+   "Add the broccoli and cook, stirring, until just tender.",
+   "Season with salt and pepper."
   ]
  },
  {
-  "name": "Apple Smoothie",
-  "time": 10,
-  "servings": 1,
+  "name": "Pork Congee",
+  "time": 45,
+  "servings": 3,
   "tags": [
-   "drink",
-   "quick",
-   "vegetarian"
+   "soup",
+   "rice"
   ],
   "ingredients": [
    {
-    "qty": "1",
-    "name": "apple"
+    "qty": "400 g",
+    "name": "pork"
    },
    {
-    "qty": "1 cup",
-    "name": "milk"
+    "qty": "1 thumb",
+    "name": "ginger"
    },
    {
-    "qty": "1 tbsp",
-    "name": "honey"
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
    }
   ],
   "steps": [
-   "Peel and chop the apple.",
-   "Blend with the milk and honey until smooth.",
-   "Pour and serve cold."
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the pork, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
   ]
  },
  {
@@ -4444,7 +4720,7 @@
   ]
  },
  {
-  "name": "Pork and Broccoli Stir-Fry",
+  "name": "Pork and Carrot Stir-Fry",
   "time": 25,
   "servings": 3,
   "tags": [
@@ -4456,16 +4732,16 @@
     "name": "pork"
    },
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "2",
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -4473,9 +4749,9 @@
    }
   ],
   "steps": [
-   "Slice the pork and broccoli into bite-size pieces.",
+   "Slice the pork and carrot into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -4939,22 +5215,23 @@
   ]
  },
  {
-  "name": "Potato Hash with Cheese",
-  "time": 25,
+  "name": "Garlic Sauteed Spinach",
+  "time": 12,
   "servings": 2,
   "tags": [
-   "breakfast",
+   "side",
    "quick",
-   "vegetarian"
+   "vegetarian",
+   "vegan"
   ],
   "ingredients": [
    {
-    "qty": "2",
-    "name": "potato"
+    "qty": "1 bunch",
+    "name": "spinach"
    },
    {
-    "qty": "1/2 cup",
-    "name": "cheese"
+    "qty": "4 cloves",
+    "name": "garlic"
    },
    {
     "qty": "1",
@@ -4970,42 +5247,49 @@
    }
   ],
   "steps": [
-   "Dice the potatoes small and pan-fry in oil until golden, about 12 minutes.",
-   "Add the cheese and the rest of the aromatics and cook 5 minutes.",
-   "Season with salt and serve hot."
+   "Heat oil and sauté the garlic and onion until fragrant.",
+   "Add the spinach and cook, stirring, until just tender.",
+   "Season with salt and pepper."
   ]
  },
  {
-  "name": "Spinach Smoothie",
-  "time": 10,
-  "servings": 1,
+  "name": "Shrimp Congee",
+  "time": 35,
+  "servings": 3,
   "tags": [
-   "drink",
-   "quick",
-   "vegetarian"
+   "soup",
+   "rice"
   ],
   "ingredients": [
    {
-    "qty": "1 bunch",
-    "name": "spinach"
+    "qty": "300 g",
+    "name": "shrimp"
    },
    {
-    "qty": "2",
-    "name": "banana"
+    "qty": "1 thumb",
+    "name": "ginger"
    },
    {
-    "qty": "1 cup",
-    "name": "milk"
+    "qty": "4 cloves",
+    "name": "garlic"
    },
    {
-    "qty": "1 tbsp",
-    "name": "honey"
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
    }
   ],
   "steps": [
-   "Peel and chop the spinach.",
-   "Blend with the milk and honey until smooth.",
-   "Pour and serve cold."
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the shrimp, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
   ]
  },
  {
@@ -5048,7 +5332,7 @@
   ]
  },
  {
-  "name": "Pork and Cabbage Stir-Fry",
+  "name": "Pork and Broccoli Stir-Fry",
   "time": 25,
   "servings": 3,
   "tags": [
@@ -5060,8 +5344,8 @@
     "name": "pork"
    },
    {
-    "qty": "2 cups shredded",
-    "name": "cabbage"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
     "qty": "4 cloves",
@@ -5077,9 +5361,9 @@
    }
   ],
   "steps": [
-   "Slice the pork and cabbage into bite-size pieces.",
+   "Slice the pork and broccoli into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -5539,7 +5823,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Broccoli",
+  "name": "Garlic Sauteed Cabbage",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -5550,8 +5834,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "2 cups shredded",
+    "name": "cabbage"
    },
    {
     "qty": "4 cloves",
@@ -5572,22 +5856,24 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the broccoli and cook, stirring, until just tender.",
+   "Add the cabbage and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Chicken Congee",
-  "time": 45,
+  "name": "Mushroom Congee",
+  "time": 35,
   "servings": 3,
   "tags": [
    "soup",
-   "rice"
+   "rice",
+   "vegetarian",
+   "vegan"
   ],
   "ingredients": [
    {
-    "qty": "400 g",
-    "name": "chicken"
+    "qty": "1 cup sliced",
+    "name": "mushroom"
    },
    {
     "qty": "1 thumb",
@@ -5612,7 +5898,7 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the chicken, ginger and garlic and cook until done.",
+   "Add the mushroom, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
@@ -5655,7 +5941,7 @@
   ]
  },
  {
-  "name": "Pork and Bell Pepper Stir-Fry",
+  "name": "Pork and Cabbage Stir-Fry",
   "time": 25,
   "servings": 3,
   "tags": [
@@ -5667,8 +5953,8 @@
     "name": "pork"
    },
    {
-    "qty": "1",
-    "name": "bell pepper"
+    "qty": "2 cups shredded",
+    "name": "cabbage"
    },
    {
     "qty": "4 cloves",
@@ -5684,9 +5970,9 @@
    }
   ],
   "steps": [
-   "Slice the pork and bell pepper into bite-size pieces.",
+   "Slice the pork and cabbage into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -6139,7 +6425,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Spinach",
+  "name": "Garlic Sauteed Green Beans",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -6150,8 +6436,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1 bunch",
-    "name": "spinach"
+    "qty": "1 cup",
+    "name": "green beans"
    },
    {
     "qty": "4 cloves",
@@ -6172,23 +6458,24 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the spinach and cook, stirring, until just tender.",
+   "Add the green beans and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Egg Congee",
+  "name": "Tofu Congee",
   "time": 35,
   "servings": 3,
   "tags": [
    "soup",
    "rice",
-   "vegetarian"
+   "vegetarian",
+   "vegan"
   ],
   "ingredients": [
    {
-    "qty": "2",
-    "name": "egg"
+    "qty": "1 block",
+    "name": "tofu"
    },
    {
     "qty": "1 thumb",
@@ -6213,7 +6500,7 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the egg, ginger and garlic and cook until done.",
+   "Add the tofu, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
@@ -6257,7 +6544,7 @@
   ]
  },
  {
-  "name": "Pork and Mushroom Stir-Fry",
+  "name": "Pork and Bell Pepper Stir-Fry",
   "time": 25,
   "servings": 3,
   "tags": [
@@ -6269,16 +6556,16 @@
     "name": "pork"
    },
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "1",
+    "name": "bell pepper"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -6286,9 +6573,9 @@
    }
   ],
   "steps": [
-   "Slice the pork and mushroom into bite-size pieces.",
+   "Slice the pork and bell pepper into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -6703,7 +6990,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Cabbage",
+  "name": "Garlic Sauteed Mushroom",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -6714,8 +7001,8 @@
   ],
   "ingredients": [
    {
-    "qty": "2 cups shredded",
-    "name": "cabbage"
+    "qty": "1 cup sliced",
+    "name": "mushroom"
    },
    {
     "qty": "4 cloves",
@@ -6736,13 +7023,13 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the cabbage and cook, stirring, until just tender.",
+   "Add the mushroom and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Pork Congee",
-  "time": 45,
+  "name": "Fish Congee",
+  "time": 40,
   "servings": 3,
   "tags": [
    "soup",
@@ -6751,7 +7038,7 @@
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "pork"
+    "name": "fish"
    },
    {
     "qty": "1 thumb",
@@ -6776,7 +7063,7 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the pork, ginger and garlic and cook until done.",
+   "Add the fish, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
@@ -6820,7 +7107,7 @@
   ]
  },
  {
-  "name": "Pork and Green Beans Stir-Fry",
+  "name": "Pork and Mushroom Stir-Fry",
   "time": 25,
   "servings": 3,
   "tags": [
@@ -6832,8 +7119,8 @@
     "name": "pork"
    },
    {
-    "qty": "1 cup",
-    "name": "green beans"
+    "qty": "1 cup sliced",
+    "name": "mushroom"
    },
    {
     "qty": "4 cloves",
@@ -6849,9 +7136,9 @@
    }
   ],
   "steps": [
-   "Slice the pork and green beans into bite-size pieces.",
+   "Slice the pork and mushroom into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -7272,7 +7559,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Green Beans",
+  "name": "Garlic Sauteed Carrot",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -7283,8 +7570,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1 cup",
-    "name": "green beans"
+    "qty": "2",
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
@@ -7305,13 +7592,13 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the green beans and cook, stirring, until just tender.",
+   "Add the carrot and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Shrimp Congee",
-  "time": 35,
+  "name": "Beef Congee",
+  "time": 50,
   "servings": 3,
   "tags": [
    "soup",
@@ -7319,8 +7606,8 @@
   ],
   "ingredients": [
    {
-    "qty": "300 g",
-    "name": "shrimp"
+    "qty": "400 g",
+    "name": "beef"
    },
    {
     "qty": "1 thumb",
@@ -7345,13 +7632,13 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the shrimp, ginger and garlic and cook until done.",
+   "Add the beef, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
  {
-  "name": "Beef and Carrot Stir-Fry",
-  "time": 30,
+  "name": "Pork and Green Beans Stir-Fry",
+  "time": 25,
   "servings": 3,
   "tags": [
    "quick"
@@ -7359,11 +7646,11 @@
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "beef"
+    "name": "pork"
    },
    {
-    "qty": "2",
-    "name": "carrot"
+    "qty": "1 cup",
+    "name": "green beans"
    },
    {
     "qty": "4 cloves",
@@ -7379,9 +7666,9 @@
    }
   ],
   "steps": [
-   "Slice the beef and carrot into bite-size pieces.",
-   "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
+   "Slice the pork and green beans into bite-size pieces.",
+   "Stir-fry the garlic and pork in hot oil until cooked through.",
+   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -7751,7 +8038,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Mushroom",
+  "name": "Garlic Sauteed Corn",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -7762,8 +8049,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "1 cup",
+    "name": "corn"
    },
    {
     "qty": "4 cloves",
@@ -7784,55 +8071,13 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the mushroom and cook, stirring, until just tender.",
+   "Add the corn and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Mushroom Congee",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice",
-   "vegetarian",
-   "vegan"
-  ],
-  "ingredients": [
-   {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
-   },
-   {
-    "qty": "1 thumb",
-    "name": "ginger"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
-   }
-  ],
-  "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the mushroom, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
-  ]
- },
- {
-  "name": "Beef and Broccoli Stir-Fry",
-  "time": 30,
+  "name": "Pork and Tomato Stir-Fry",
+  "time": 25,
   "servings": 3,
   "tags": [
    "quick"
@@ -7840,11 +8085,11 @@
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "beef"
+    "name": "pork"
    },
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "2",
+    "name": "tomato"
    },
    {
     "qty": "4 cloves",
@@ -7860,9 +8105,9 @@
    }
   ],
   "steps": [
-   "Slice the beef and broccoli into bite-size pieces.",
-   "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Slice the pork and tomato into bite-size pieces.",
+   "Stir-fry the garlic and pork in hot oil until cooked through.",
+   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -8234,7 +8479,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Carrot",
+  "name": "Garlic Sauteed Zucchini",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -8245,8 +8490,8 @@
   ],
   "ingredients": [
    {
-    "qty": "2",
-    "name": "carrot"
+    "qty": "1",
+    "name": "zucchini"
    },
    {
     "qty": "4 cloves",
@@ -8267,54 +8512,12 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the carrot and cook, stirring, until just tender.",
+   "Add the zucchini and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Tofu Congee",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice",
-   "vegetarian",
-   "vegan"
-  ],
-  "ingredients": [
-   {
-    "qty": "1 block",
-    "name": "tofu"
-   },
-   {
-    "qty": "1 thumb",
-    "name": "ginger"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
-   }
-  ],
-  "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the tofu, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
-  ]
- },
- {
-  "name": "Beef and Cabbage Stir-Fry",
+  "name": "Beef and Carrot Stir-Fry",
   "time": 30,
   "servings": 3,
   "tags": [
@@ -8326,16 +8529,16 @@
     "name": "beef"
    },
    {
-    "qty": "2 cups shredded",
-    "name": "cabbage"
+    "qty": "2",
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -8343,9 +8546,9 @@
    }
   ],
   "steps": [
-   "Slice the beef and cabbage into bite-size pieces.",
+   "Slice the beef and carrot into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -8720,7 +8923,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Corn",
+  "name": "Garlic Sauteed Eggplant",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -8731,8 +8934,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1 cup",
-    "name": "corn"
+    "qty": "2",
+    "name": "eggplant"
    },
    {
     "qty": "4 cloves",
@@ -8753,52 +8956,12 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the corn and cook, stirring, until just tender.",
+   "Add the eggplant and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Fish Congee",
-  "time": 40,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice"
-  ],
-  "ingredients": [
-   {
-    "qty": "400 g",
-    "name": "fish"
-   },
-   {
-    "qty": "1 thumb",
-    "name": "ginger"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
-   }
-  ],
-  "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the fish, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
-  ]
- },
- {
-  "name": "Beef and Bell Pepper Stir-Fry",
+  "name": "Beef and Broccoli Stir-Fry",
   "time": 30,
   "servings": 3,
   "tags": [
@@ -8810,8 +8973,8 @@
     "name": "beef"
    },
    {
-    "qty": "1",
-    "name": "bell pepper"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
     "qty": "4 cloves",
@@ -8827,9 +8990,9 @@
    }
   ],
   "steps": [
-   "Slice the beef and bell pepper into bite-size pieces.",
+   "Slice the beef and broccoli into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -9022,35 +9185,6 @@
   ]
  },
  {
-  "name": "Pineapple Oatmeal",
-  "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
-  "ingredients": [
-   {
-    "qty": "1/2 cup",
-    "name": "oats"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   },
-   {
-    "qty": "1 cup",
-    "name": "pineapple"
-   }
-  ],
-  "steps": [
-   "Simmer the oats in the milk for 5 minutes, stirring.",
-   "Stir in or top with the pineapple.",
-   "Serve warm."
-  ]
- },
- {
   "name": "Roasted Corn with Garlic",
   "time": 45,
   "servings": 3,
@@ -9128,7 +9262,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Zucchini",
+  "name": "Garlic Sauteed Cauliflower",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -9139,8 +9273,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1",
-    "name": "zucchini"
+    "qty": "1 head",
+    "name": "cauliflower"
    },
    {
     "qty": "4 cloves",
@@ -9161,52 +9295,12 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the zucchini and cook, stirring, until just tender.",
+   "Add the cauliflower and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef Congee",
-  "time": 50,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice"
-  ],
-  "ingredients": [
-   {
-    "qty": "400 g",
-    "name": "beef"
-   },
-   {
-    "qty": "1 thumb",
-    "name": "ginger"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
-   }
-  ],
-  "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the beef, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
-  ]
- },
- {
-  "name": "Beef and Mushroom Stir-Fry",
+  "name": "Beef and Cabbage Stir-Fry",
   "time": 30,
   "servings": 3,
   "tags": [
@@ -9218,16 +9312,16 @@
     "name": "beef"
    },
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "2 cups shredded",
+    "name": "cabbage"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -9235,9 +9329,9 @@
    }
   ],
   "steps": [
-   "Slice the beef and mushroom into bite-size pieces.",
+   "Slice the beef and cabbage into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -9398,35 +9492,6 @@
   ]
  },
  {
-  "name": "Honey Oatmeal",
-  "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
-  "ingredients": [
-   {
-    "qty": "1/2 cup",
-    "name": "oats"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   },
-   {
-    "qty": "1 tbsp",
-    "name": "honey"
-   }
-  ],
-  "steps": [
-   "Simmer the oats in the milk for 5 minutes, stirring.",
-   "Stir in or top with the honey.",
-   "Serve warm."
-  ]
- },
- {
   "name": "Roasted Onion with Garlic",
   "time": 45,
   "servings": 3,
@@ -9504,7 +9569,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Eggplant",
+  "name": "Garlic Sauteed Bell Pepper",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -9515,8 +9580,8 @@
   ],
   "ingredients": [
    {
-    "qty": "2",
-    "name": "eggplant"
+    "qty": "1",
+    "name": "bell pepper"
    },
    {
     "qty": "4 cloves",
@@ -9537,12 +9602,12 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the eggplant and cook, stirring, until just tender.",
+   "Add the bell pepper and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef and Green Beans Stir-Fry",
+  "name": "Beef and Bell Pepper Stir-Fry",
   "time": 30,
   "servings": 3,
   "tags": [
@@ -9554,16 +9619,16 @@
     "name": "beef"
    },
    {
-    "qty": "1 cup",
-    "name": "green beans"
+    "qty": "1",
+    "name": "bell pepper"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -9571,9 +9636,9 @@
    }
   ],
   "steps": [
-   "Slice the beef and green beans into bite-size pieces.",
+   "Slice the beef and bell pepper into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -9727,35 +9792,6 @@
   ]
  },
  {
-  "name": "Pumpkin Oatmeal",
-  "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
-  "ingredients": [
-   {
-    "qty": "1/2 cup",
-    "name": "oats"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   },
-   {
-    "qty": "2 cups cubed",
-    "name": "pumpkin"
-   }
-  ],
-  "steps": [
-   "Simmer the oats in the milk for 5 minutes, stirring.",
-   "Stir in or top with the pumpkin.",
-   "Serve warm."
-  ]
- },
- {
   "name": "Roasted Bell Pepper with Garlic",
   "time": 45,
   "servings": 3,
@@ -9833,7 +9869,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Cauliflower",
+  "name": "Garlic Sauteed Kangkong",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -9844,8 +9880,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1 head",
-    "name": "cauliflower"
+    "qty": "1 bunch",
+    "name": "kangkong"
    },
    {
     "qty": "4 cloves",
@@ -9866,25 +9902,25 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the cauliflower and cook, stirring, until just tender.",
+   "Add the kangkong and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Shrimp and Carrot Stir-Fry",
-  "time": 20,
+  "name": "Beef and Mushroom Stir-Fry",
+  "time": 30,
   "servings": 3,
   "tags": [
    "quick"
   ],
   "ingredients": [
    {
-    "qty": "300 g",
-    "name": "shrimp"
+    "qty": "400 g",
+    "name": "beef"
    },
    {
-    "qty": "2",
-    "name": "carrot"
+    "qty": "1 cup sliced",
+    "name": "mushroom"
    },
    {
     "qty": "4 cloves",
@@ -9900,9 +9936,9 @@
    }
   ],
   "steps": [
-   "Slice the shrimp and carrot into bite-size pieces.",
-   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
+   "Slice the beef and mushroom into bite-size pieces.",
+   "Stir-fry the garlic and beef in hot oil until cooked through.",
+   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -10059,7 +10095,7 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Bell Pepper",
+  "name": "Garlic Sauteed Peas",
   "time": 12,
   "servings": 2,
   "tags": [
@@ -10070,8 +10106,8 @@
   ],
   "ingredients": [
    {
-    "qty": "1",
-    "name": "bell pepper"
+    "qty": "1/2 cup",
+    "name": "peas"
    },
    {
     "qty": "4 cloves",
@@ -10092,33 +10128,33 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the bell pepper and cook, stirring, until just tender.",
+   "Add the peas and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Shrimp and Broccoli Stir-Fry",
-  "time": 20,
+  "name": "Beef and Green Beans Stir-Fry",
+  "time": 30,
   "servings": 3,
   "tags": [
    "quick"
   ],
   "ingredients": [
    {
-    "qty": "300 g",
-    "name": "shrimp"
+    "qty": "400 g",
+    "name": "beef"
    },
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "1 cup",
+    "name": "green beans"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -10126,9 +10162,9 @@
    }
   ],
   "steps": [
-   "Slice the shrimp and broccoli into bite-size pieces.",
-   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Slice the beef and green beans into bite-size pieces.",
+   "Stir-fry the garlic and beef in hot oil until cooked through.",
+   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -10288,58 +10324,55 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Kangkong",
-  "time": 12,
-  "servings": 2,
+  "name": "Baked Cheesy Chicken Rice",
+  "time": 35,
+  "servings": 3,
   "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
+   "oven"
   ],
   "ingredients": [
    {
-    "qty": "1 bunch",
-    "name": "kangkong"
+    "qty": "3 cups cooked",
+    "name": "rice"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
+    "qty": "400 g",
+    "name": "chicken"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
    },
    {
     "qty": "1",
     "name": "onion"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oil"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
+    "qty": "1 cup",
+    "name": "milk"
    }
   ],
   "steps": [
-   "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the kangkong and cook, stirring, until just tender.",
-   "Season with salt and pepper."
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and chicken in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
   ]
  },
  {
-  "name": "Shrimp and Cabbage Stir-Fry",
-  "time": 20,
+  "name": "Beef and Tomato Stir-Fry",
+  "time": 30,
   "servings": 3,
   "tags": [
    "quick"
   ],
   "ingredients": [
    {
-    "qty": "300 g",
-    "name": "shrimp"
+    "qty": "400 g",
+    "name": "beef"
    },
    {
-    "qty": "2 cups shredded",
-    "name": "cabbage"
+    "qty": "2",
+    "name": "tomato"
    },
    {
     "qty": "4 cloves",
@@ -10355,9 +10388,9 @@
    }
   ],
   "steps": [
-   "Slice the shrimp and cabbage into bite-size pieces.",
-   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Slice the beef and tomato into bite-size pieces.",
+   "Stir-fry the garlic and beef in hot oil until cooked through.",
+   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -10397,45 +10430,42 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Peas",
-  "time": 12,
-  "servings": 2,
+  "name": "Baked Cheesy Tuna Rice",
+  "time": 35,
+  "servings": 3,
   "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
+   "oven"
   ],
   "ingredients": [
    {
-    "qty": "1/2 cup",
-    "name": "peas"
+    "qty": "3 cups cooked",
+    "name": "rice"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
+    "qty": "1 can",
+    "name": "tuna"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
    },
    {
     "qty": "1",
     "name": "onion"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oil"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
+    "qty": "1 cup",
+    "name": "milk"
    }
   ],
   "steps": [
-   "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the peas and cook, stirring, until just tender.",
-   "Season with salt and pepper."
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and tuna in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
   ]
  },
  {
-  "name": "Shrimp and Bell Pepper Stir-Fry",
+  "name": "Shrimp and Carrot Stir-Fry",
   "time": 20,
   "servings": 3,
   "tags": [
@@ -10447,16 +10477,16 @@
     "name": "shrimp"
    },
    {
-    "qty": "1",
-    "name": "bell pepper"
+    "qty": "2",
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -10464,9 +10494,9 @@
    }
   ],
   "steps": [
-   "Slice the shrimp and bell pepper into bite-size pieces.",
+   "Slice the shrimp and carrot into bite-size pieces.",
    "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -10503,45 +10533,42 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Pumpkin",
-  "time": 12,
-  "servings": 2,
+  "name": "Baked Cheesy Sausage Rice",
+  "time": 35,
+  "servings": 3,
   "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
+   "oven"
   ],
   "ingredients": [
    {
-    "qty": "2 cups cubed",
-    "name": "pumpkin"
+    "qty": "3 cups cooked",
+    "name": "rice"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
+    "qty": "3",
+    "name": "sausage"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
    },
    {
     "qty": "1",
     "name": "onion"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oil"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
+    "qty": "1 cup",
+    "name": "milk"
    }
   ],
   "steps": [
-   "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the pumpkin and cook, stirring, until just tender.",
-   "Season with salt and pepper."
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and sausage in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
   ]
  },
  {
-  "name": "Shrimp and Mushroom Stir-Fry",
+  "name": "Shrimp and Broccoli Stir-Fry",
   "time": 20,
   "servings": 3,
   "tags": [
@@ -10553,16 +10580,16 @@
     "name": "shrimp"
    },
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -10570,9 +10597,9 @@
    }
   ],
   "steps": [
-   "Slice the shrimp and mushroom into bite-size pieces.",
+   "Slice the shrimp and broccoli into bite-size pieces.",
    "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -10613,11 +10640,12 @@
   ]
  },
  {
-  "name": "Baked Cheesy Chicken Rice",
+  "name": "Baked Cheesy Mushroom Rice",
   "time": 35,
   "servings": 3,
   "tags": [
-   "oven"
+   "oven",
+   "vegetarian"
   ],
   "ingredients": [
    {
@@ -10625,8 +10653,8 @@
     "name": "rice"
    },
    {
-    "qty": "400 g",
-    "name": "chicken"
+    "qty": "1 cup sliced",
+    "name": "mushroom"
    },
    {
     "qty": "1/2 cup",
@@ -10643,12 +10671,12 @@
   ],
   "steps": [
    "Heat the oven to 190°C (375°F).",
-   "Cook the onion and chicken in a pan, then mix with the rice and milk in a baking dish.",
+   "Cook the onion and mushroom in a pan, then mix with the rice and milk in a baking dish.",
    "Top with cheese and bake 20 minutes until bubbly."
   ]
  },
  {
-  "name": "Shrimp and Green Beans Stir-Fry",
+  "name": "Shrimp and Cabbage Stir-Fry",
   "time": 20,
   "servings": 3,
   "tags": [
@@ -10660,16 +10688,16 @@
     "name": "shrimp"
    },
    {
-    "qty": "1 cup",
-    "name": "green beans"
+    "qty": "2 cups shredded",
+    "name": "cabbage"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -10677,9 +10705,9 @@
    }
   ],
   "steps": [
-   "Slice the shrimp and green beans into bite-size pieces.",
+   "Slice the shrimp and cabbage into bite-size pieces.",
    "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -10719,7 +10747,7 @@
   ]
  },
  {
-  "name": "Baked Cheesy Tuna Rice",
+  "name": "Baked Cheesy Shrimp Rice",
   "time": 35,
   "servings": 3,
   "tags": [
@@ -10731,8 +10759,8 @@
     "name": "rice"
    },
    {
-    "qty": "1 can",
-    "name": "tuna"
+    "qty": "300 g",
+    "name": "shrimp"
    },
    {
     "qty": "1/2 cup",
@@ -10749,8 +10777,255 @@
   ],
   "steps": [
    "Heat the oven to 190°C (375°F).",
-   "Cook the onion and tuna in a pan, then mix with the rice and milk in a baking dish.",
+   "Cook the onion and shrimp in a pan, then mix with the rice and milk in a baking dish.",
    "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
+  "name": "Shrimp and Bell Pepper Stir-Fry",
+  "time": 20,
+  "servings": 3,
+  "tags": [
+   "quick"
+  ],
+  "ingredients": [
+   {
+    "qty": "300 g",
+    "name": "shrimp"
+   },
+   {
+    "qty": "1",
+    "name": "bell pepper"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Slice the shrimp and bell pepper into bite-size pieces.",
+   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
+   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
+  ]
+ },
+ {
+  "name": "Baked Cheesy Egg Rice",
+  "time": 35,
+  "servings": 3,
+  "tags": [
+   "oven",
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "2",
+    "name": "egg"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and egg in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
+  "name": "Shrimp and Mushroom Stir-Fry",
+  "time": 20,
+  "servings": 3,
+  "tags": [
+   "quick"
+  ],
+  "ingredients": [
+   {
+    "qty": "300 g",
+    "name": "shrimp"
+   },
+   {
+    "qty": "1 cup sliced",
+    "name": "mushroom"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "3 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Slice the shrimp and mushroom into bite-size pieces.",
+   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
+   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
+  ]
+ },
+ {
+  "name": "Baked Cheesy Ham Rice",
+  "time": 35,
+  "servings": 3,
+  "tags": [
+   "oven"
+  ],
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "100 g",
+    "name": "ham"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and ham in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
+  "name": "Shrimp and Green Beans Stir-Fry",
+  "time": 20,
+  "servings": 3,
+  "tags": [
+   "quick"
+  ],
+  "ingredients": [
+   {
+    "qty": "300 g",
+    "name": "shrimp"
+   },
+   {
+    "qty": "1 cup",
+    "name": "green beans"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "3 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Slice the shrimp and green beans into bite-size pieces.",
+   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
+   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
+  ]
+ },
+ {
+  "name": "Baked Cheesy Spinach Rice",
+  "time": 35,
+  "servings": 3,
+  "tags": [
+   "oven",
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "1 bunch",
+    "name": "spinach"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and spinach in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
+  "name": "Shrimp and Tomato Stir-Fry",
+  "time": 20,
+  "servings": 3,
+  "tags": [
+   "quick"
+  ],
+  "ingredients": [
+   {
+    "qty": "300 g",
+    "name": "shrimp"
+   },
+   {
+    "qty": "2",
+    "name": "tomato"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Slice the shrimp and tomato into bite-size pieces.",
+   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
+   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
@@ -10791,41 +11066,6 @@
   ]
  },
  {
-  "name": "Baked Cheesy Sausage Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "3",
-    "name": "sausage"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and sausage in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
-  ]
- },
- {
   "name": "Tofu and Broccoli Stir-Fry",
   "time": 20,
   "servings": 3,
@@ -10860,42 +11100,6 @@
    "Slice the tofu and broccoli into bite-size pieces.",
    "Stir-fry the garlic and tofu in hot oil until cooked through.",
    "Add the broccoli and soy sauce and cook 4 minutes more. Serve with rice."
-  ]
- },
- {
-  "name": "Baked Cheesy Mushroom Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and mushroom in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
   ]
  },
  {
@@ -10936,41 +11140,6 @@
   ]
  },
  {
-  "name": "Baked Cheesy Shrimp Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "300 g",
-    "name": "shrimp"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and shrimp in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
-  ]
- },
- {
   "name": "Tofu and Bell Pepper Stir-Fry",
   "time": 20,
   "servings": 3,
@@ -11005,42 +11174,6 @@
    "Slice the tofu and bell pepper into bite-size pieces.",
    "Stir-fry the garlic and tofu in hot oil until cooked through.",
    "Add the bell pepper and soy sauce and cook 4 minutes more. Serve with rice."
-  ]
- },
- {
-  "name": "Baked Cheesy Egg Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "2",
-    "name": "egg"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and egg in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
   ]
  },
  {
@@ -11081,41 +11214,6 @@
   ]
  },
  {
-  "name": "Baked Cheesy Ham Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "100 g",
-    "name": "ham"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and ham in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
-  ]
- },
- {
   "name": "Tofu and Green Beans Stir-Fry",
   "time": 20,
   "servings": 3,
@@ -11153,39 +11251,40 @@
   ]
  },
  {
-  "name": "Baked Cheesy Spinach Rice",
-  "time": 35,
+  "name": "Tofu and Tomato Stir-Fry",
+  "time": 20,
   "servings": 3,
   "tags": [
-   "oven",
-   "vegetarian"
+   "quick",
+   "vegetarian",
+   "vegan"
   ],
   "ingredients": [
    {
-    "qty": "3 cups cooked",
-    "name": "rice"
+    "qty": "1 block",
+    "name": "tofu"
    },
    {
-    "qty": "1 bunch",
-    "name": "spinach"
+    "qty": "2",
+    "name": "tomato"
    },
    {
-    "qty": "1/2 cup",
-    "name": "cheese"
+    "qty": "4 cloves",
+    "name": "garlic"
    },
    {
-    "qty": "1",
-    "name": "onion"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
-    "qty": "1 cup",
-    "name": "milk"
+    "qty": "2 tbsp",
+    "name": "oil"
    }
   ],
   "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and spinach in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
+   "Slice the tofu and tomato into bite-size pieces.",
+   "Stir-fry the garlic and tofu in hot oil until cooked through.",
+   "Add the tomato and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  }
 ]
