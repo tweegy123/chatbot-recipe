@@ -1,5 +1,4 @@
 #!C:/Users/Jelly/AppData/Local/Python/pythoncore-3.14-64/python.exe
-"""Recipe Finder chatbot: Python CGI script for XAMPP, recipes.json as the database."""
 import json
 import os
 import sys
@@ -11,14 +10,14 @@ BASE = Path(os.path.abspath(__file__)).parent
 RECIPES = json.loads((BASE / "database.json").read_text(encoding="utf-8"))
 PANTRY = {"salt", "pepper", "oil", "water", "sugar"}  # assumed to be in every kitchen
 MEAT = {"chicken", "pork", "beef", "shrimp", "tuna", "bacon", "sausage", "ham", "fish", "salmon", "squid", "oyster"}
-DAIRY_EGG = {"egg", "cheese", "milk", "butter", "cream", "honey"}  # vegetarian but not vegan
+DAIRY_EGG = {"egg", "cheese", "milk", "butter", "cream", "honey"}  # vegetarian side
 
 HELP = ('Hi! Tell me what is in your kitchen, like "I have chicken, garlic and rice". '
         'You can also ask for a recipe by name, or try "quick vegetarian meals" or "surprise me". '
         'I assume you always have salt, pepper, oil, water and sugar.')
 
 
-def norm(word):
+def norm(word): #grammar ies, oes, s. para ma read yong code
     """Crude singularizer so 'eggs' matches 'egg' and 'tomatoes' matches 'tomato'."""
     if word.endswith("ies"):
         return word[:-3] + "y"
@@ -39,7 +38,7 @@ for r in RECIPES:  # precompute search keys once at startup
     for ing in r["ingredients"]:
         ing["_key"] = tokens(ing["name"])[0]  # 'soy sauce' -> 'soy'
         KEYNAME.setdefault(ing["_key"], ing["name"])
-for r in RECIPES:  # diet is worked out from the ingredients
+for r in RECIPES:  # diet meals For the Ingredients like vegen, or vegetarian
     keys = {i["_key"] for i in r["ingredients"]}
     r["_vegetarian"] = not keys & MEAT
     r["_vegan"] = r["_vegetarian"] and not keys & DAIRY_EGG
@@ -81,14 +80,14 @@ def reply_to(message):
     if not toks or (words & {"hi", "hello", "hey", "help"} and not have):
         return {"reply": HELP}
 
-    # 1. Recipe by name
+    # 1. the name of Recipe
     for r in RECIPES:
         distinct = {w for w in r["_name_words"] if w not in VOCAB and len(w) > 3}
         full = r["_name_words"] <= words
         if (full and (distinct or cue or not (have - r["_name_words"]))) or (distinct & words and (cue or not have)):
             return {"reply": f"Here is how to make {r['name']}:", "recipes": [card(r)], "full": True}
 
-    # 2. Filters: diet and time
+    # 2. the diet Mealss
     pool, filters = RECIPES, []
     for diet in ("vegan", "vegetarian"):
         if diet in words:
@@ -101,7 +100,7 @@ def reply_to(message):
         pool = [r for r in pool if r["time"] <= limit]
         filters.append(f"under {limit} minutes")
 
-    # 3. Surprise me
+    # 3. Surprise me or ROLL a Random FOODS alam nyo nayan
     if words & {"surprise", "random"} and pool:
         return {"reply": "How about this one?", "recipes": [card(random.choice(pool))], "full": True}
 

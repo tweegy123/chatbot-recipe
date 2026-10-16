@@ -2,11 +2,6 @@
  {
   "name": "Chicken Adobo",
   "time": 45,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -38,11 +33,6 @@
  {
   "name": "Sinigang na Pork",
   "time": 60,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -80,7 +70,6 @@
    "Add the kangkong, cook 2 minutes and serve hot."
   ]
  },
- {
   "name": "Chicken Afritada",
   "time": 40,
   "servings": 4,
@@ -127,14 +116,9 @@
    "Add the tomato and 1 cup of water and simmer until the chicken is almost tender.",
    "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
   ]
- },
  {
   "name": "Chicken and Carrot Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -166,10 +150,6 @@
  {
   "name": "Chicken Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -206,10 +186,6 @@
  {
   "name": "Garlic Chicken Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -237,10 +213,6 @@
  {
   "name": "Chicken Noodle Soup",
   "time": 40,
-  "servings": 4,
-  "tags": [
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -284,12 +256,6 @@
  {
   "name": "Tomato and Cheese Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -317,10 +283,6 @@
  {
   "name": "Chicken Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -357,13 +319,6 @@
  {
   "name": "Tomato and Cucumber Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -395,12 +350,6 @@
  {
   "name": "Egg and Tomato Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -428,12 +377,6 @@
  {
   "name": "Banana Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -469,10 +412,6 @@
  {
   "name": "Roasted Chicken with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -504,12 +443,6 @@
  {
   "name": "Pancit Canton with Chicken",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -550,10 +483,6 @@
  {
   "name": "Chicken Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -581,10 +510,6 @@
  {
   "name": "Garlic Butter Skillet Shrimp",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -616,11 +541,6 @@
  {
   "name": "Potato Hash with Sausage",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -652,12 +572,6 @@
  {
   "name": "Banana Smoothie",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "drink",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -681,11 +595,6 @@
  {
   "name": "Pork Adobo",
   "time": 55,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -717,11 +626,6 @@
  {
   "name": "Sinigang na Beef",
   "time": 90,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -760,60 +664,8 @@
   ]
  },
  {
-  "name": "Pork Afritada",
-  "time": 55,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "stew"
-  ],
-  "ingredients": [
-   {
-    "qty": "400 g",
-    "name": "pork"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "2",
-    "name": "potato"
-   },
-   {
-    "qty": "2",
-    "name": "carrot"
-   },
-   {
-    "qty": "1",
-    "name": "bell pepper"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Sauté the garlic and onion in oil, then add the pork and brown it lightly.",
-   "Add the tomato and 1 cup of water and simmer until the pork is almost tender.",
-   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
-  ]
- },
- {
   "name": "Chicken and Broccoli Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -845,10 +697,6 @@
  {
   "name": "Shrimp Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -885,10 +733,6 @@
  {
   "name": "Tomato Chicken Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -920,12 +764,6 @@
  {
   "name": "Tomato Soup",
   "time": 30,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -965,12 +803,6 @@
  {
   "name": "Onion and Tomato Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -998,10 +830,6 @@
  {
   "name": "Beef Curry",
   "time": 55,
-  "servings": 4,
-  "tags": [
-   "curry"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1038,11 +866,6 @@
  {
   "name": "Lettuce and Tuna Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -1074,11 +897,6 @@
  {
   "name": "Tuna and Onion Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -1106,12 +924,6 @@
  {
   "name": "Apple Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -1147,10 +959,6 @@
  {
   "name": "Roasted Pork with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1182,12 +990,6 @@
  {
   "name": "Pancit Canton with Pork",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -1228,11 +1030,6 @@
  {
   "name": "Mushroom Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -1260,10 +1057,6 @@
  {
   "name": "Garlic Butter Skillet Chicken",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1295,11 +1088,6 @@
  {
   "name": "Potato Hash with Bacon",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -1331,12 +1119,6 @@
  {
   "name": "Mango Smoothie",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "drink",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -1360,11 +1142,6 @@
  {
   "name": "Beef Adobo",
   "time": 80,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1396,12 +1173,6 @@
  {
   "name": "Sinigang na Shrimp",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "soup",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -1440,60 +1211,8 @@
   ]
  },
  {
-  "name": "Beef Afritada",
-  "time": 80,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "stew"
-  ],
-  "ingredients": [
-   {
-    "qty": "400 g",
-    "name": "beef"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "2",
-    "name": "potato"
-   },
-   {
-    "qty": "2",
-    "name": "carrot"
-   },
-   {
-    "qty": "1",
-    "name": "bell pepper"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Sauté the garlic and onion in oil, then add the beef and brown it lightly.",
-   "Add the tomato and 1 cup of water and simmer until the beef is almost tender.",
-   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
-  ]
- },
- {
   "name": "Chicken and Cabbage Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1525,10 +1244,6 @@
  {
   "name": "Pork Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -1565,10 +1280,6 @@
  {
   "name": "Creamy Chicken Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -1600,11 +1311,6 @@
  {
   "name": "Pumpkin Soup",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2 cups cubed",
@@ -1644,12 +1350,6 @@
  {
   "name": "Mushroom and Cheese Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -1677,10 +1377,6 @@
  {
   "name": "Pork Curry",
   "time": 45,
-  "servings": 4,
-  "tags": [
-   "curry"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1717,11 +1413,6 @@
  {
   "name": "Chicken and Lettuce Salad",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1754,12 +1445,6 @@
  {
   "name": "Cheese and Tomato Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -1787,12 +1472,6 @@
  {
   "name": "Blueberry Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -1828,11 +1507,6 @@
  {
   "name": "Roasted Fish with Garlic",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1864,12 +1538,6 @@
  {
   "name": "Pancit Canton with Shrimp",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -1910,11 +1578,6 @@
  {
   "name": "Bell Pepper Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -1942,10 +1605,6 @@
  {
   "name": "Garlic Butter Skillet Fish",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -1977,12 +1636,6 @@
  {
   "name": "Potato Hash with Egg",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -2014,12 +1667,6 @@
  {
   "name": "Strawberry Smoothie",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "drink",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -2043,12 +1690,6 @@
  {
   "name": "Squid Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -2080,12 +1721,6 @@
  {
   "name": "Sinigang na Fish",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "soup",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -2124,62 +1759,8 @@
   ]
  },
  {
-  "name": "Tofu Afritada",
-  "time": 40,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "stew",
-   "vegetarian",
-   "vegan"
-  ],
-  "ingredients": [
-   {
-    "qty": "1 block",
-    "name": "tofu"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "2",
-    "name": "potato"
-   },
-   {
-    "qty": "2",
-    "name": "carrot"
-   },
-   {
-    "qty": "1",
-    "name": "bell pepper"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Sauté the garlic and onion in oil, then add the tofu and brown it lightly.",
-   "Add the tomato and 1 cup of water and simmer until the tofu is almost tender.",
-   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
-  ]
- },
- {
   "name": "Chicken and Bell Pepper Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -2211,10 +1792,6 @@
  {
   "name": "Tuna Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -2251,10 +1828,6 @@
  {
   "name": "Garlic Shrimp Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -2282,12 +1855,6 @@
  {
   "name": "Mushroom Soup",
   "time": 30,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 cup sliced",
@@ -2327,12 +1894,6 @@
  {
   "name": "Spinach and Cheese Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -2360,10 +1921,6 @@
  {
   "name": "Shrimp Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -2400,12 +1957,6 @@
  {
   "name": "Egg and Potato Salad",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -2439,11 +1990,6 @@
  {
   "name": "Chicken and Lettuce Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -2471,12 +2017,6 @@
  {
   "name": "Strawberry Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -2512,11 +2052,6 @@
  {
   "name": "Roasted Salmon with Garlic",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "2 fillets",
@@ -2548,12 +2083,6 @@
  {
   "name": "Pancit Canton with Beef",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -2594,11 +2123,6 @@
  {
   "name": "Spinach Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -2626,10 +2150,6 @@
  {
   "name": "Garlic Butter Skillet Salmon",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "2 fillets",
@@ -2661,13 +2181,6 @@
  {
   "name": "Potato Hash with Onion",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -2699,12 +2212,6 @@
  {
   "name": "Avocado Smoothie",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "drink",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -2728,12 +2235,6 @@
  {
   "name": "Shrimp Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -2765,11 +2266,6 @@
  {
   "name": "Sinigang na Chicken",
   "time": 45,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -2808,60 +2304,8 @@
   ]
  },
  {
-  "name": "Fish Afritada",
-  "time": 40,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "stew"
-  ],
-  "ingredients": [
-   {
-    "qty": "400 g",
-    "name": "fish"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "2",
-    "name": "potato"
-   },
-   {
-    "qty": "2",
-    "name": "carrot"
-   },
-   {
-    "qty": "1",
-    "name": "bell pepper"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Sauté the garlic and onion in oil, then add the fish and brown it lightly.",
-   "Add the tomato and 1 cup of water and simmer until the fish is almost tender.",
-   "Add the potato, carrot and bell pepper and cook until soft. Season with salt and pepper."
-  ]
- },
- {
   "name": "Chicken and Mushroom Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -2893,11 +2337,6 @@
  {
   "name": "Corn Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -2934,10 +2373,6 @@
  {
   "name": "Tomato Shrimp Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -2969,12 +2404,6 @@
  {
   "name": "Corn and Egg Soup",
   "time": 20,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -3010,11 +2439,6 @@
  {
   "name": "Ham and Cheese Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -3042,12 +2466,6 @@
  {
   "name": "Potato Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -3084,13 +2502,6 @@
  {
   "name": "Cabbage and Carrot Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2 cups shredded",
@@ -3122,11 +2533,6 @@
  {
   "name": "Ham and Cheese Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -3154,12 +2560,6 @@
  {
   "name": "Corn Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -3195,11 +2595,6 @@
  {
   "name": "Roasted Shrimp with Garlic",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -3231,14 +2626,6 @@
  {
   "name": "Pancit Canton with Tofu",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -3279,10 +2666,6 @@
  {
   "name": "Ham Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -3310,11 +2693,6 @@
  {
   "name": "Garlic Butter Skillet Mushroom",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 cup sliced",
@@ -3346,11 +2724,6 @@
  {
   "name": "Potato Hash with Ham",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -3380,56 +2753,31 @@
   ]
  },
  {
-  "name": "Chicken Congee",
-  "time": 45,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice"
-  ],
+  "name": "Pineapple Smoothie",
+  "time": 10,
   "ingredients": [
    {
-    "qty": "400 g",
-    "name": "chicken"
+    "qty": "1 cup",
+    "name": "pineapple"
    },
    {
-    "qty": "1 thumb",
-    "name": "ginger"
+    "qty": "1 cup",
+    "name": "milk"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
+    "qty": "1 tbsp",
+    "name": "honey"
    }
   ],
   "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the chicken, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
+   "Peel and chop the pineapple.",
+   "Blend with the milk and honey until smooth.",
+   "Pour and serve cold."
   ]
  },
  {
   "name": "Eggplant Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -3461,14 +2809,6 @@
  {
   "name": "Sinigang na Mushroom",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "soup",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup sliced",
@@ -3509,10 +2849,6 @@
  {
   "name": "Chicken and Green Beans Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -3544,10 +2880,6 @@
  {
   "name": "Ham Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -3584,10 +2916,6 @@
  {
   "name": "Creamy Shrimp Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -3619,11 +2947,6 @@
  {
   "name": "Potato Soup",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -3663,11 +2986,6 @@
  {
   "name": "Bacon and Cheese Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -3695,12 +3013,6 @@
  {
   "name": "Chickpeas Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 can",
@@ -3737,13 +3049,6 @@
  {
   "name": "Corn and Bell Pepper Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -3775,11 +3080,6 @@
  {
   "name": "Bacon and Egg Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -3807,12 +3107,6 @@
  {
   "name": "Carrot Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -3848,12 +3142,6 @@
  {
   "name": "Roasted Potato with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -3885,14 +3173,6 @@
  {
   "name": "Pancit Canton with Mushroom",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -3933,10 +3213,6 @@
  {
   "name": "Bacon Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -3964,10 +3240,6 @@
  {
   "name": "Garlic Butter Skillet Pork",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -3999,13 +3271,6 @@
  {
   "name": "Potato Hash with Bell Pepper",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -4035,57 +3300,31 @@
   ]
  },
  {
-  "name": "Egg Congee",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice",
-   "vegetarian"
-  ],
+  "name": "Blueberry Smoothie",
+  "time": 10,
   "ingredients": [
    {
-    "qty": "2",
-    "name": "egg"
+    "qty": "1/2 cup",
+    "name": "blueberry"
    },
    {
-    "qty": "1 thumb",
-    "name": "ginger"
+    "qty": "1 cup",
+    "name": "milk"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
+    "qty": "1 tbsp",
+    "name": "honey"
    }
   ],
   "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the egg, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
+   "Peel and chop the blueberry.",
+   "Blend with the milk and honey until smooth.",
+   "Pour and serve cold."
   ]
  },
  {
   "name": "Kangkong Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 bunch",
@@ -4115,28 +3354,24 @@
   ]
  },
  {
-  "name": "Chicken and Tomato Stir-Fry",
-  "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
+  "name": "Pork and Carrot Stir-Fry",
+  "time": 25,
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "chicken"
+    "name": "pork"
    },
    {
     "qty": "2",
-    "name": "tomato"
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -4144,19 +3379,14 @@
    }
   ],
   "steps": [
-   "Slice the chicken and tomato into bite-size pieces.",
-   "Stir-fry the garlic and chicken in hot oil until cooked through.",
-   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Slice the pork and carrot into bite-size pieces.",
+   "Stir-fry the garlic and pork in hot oil until cooked through.",
+   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Carrot Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -4193,12 +3423,6 @@
  {
   "name": "Garlic Mushroom Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -4226,13 +3450,6 @@
  {
   "name": "Carrot and Ginger Soup",
   "time": 30,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -4268,11 +3485,6 @@
  {
   "name": "Sausage and Onion Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -4300,12 +3512,6 @@
  {
   "name": "Lentils Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -4342,13 +3548,6 @@
  {
   "name": "Avocado and Tomato Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -4380,12 +3579,6 @@
  {
   "name": "Avocado and Egg Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -4413,12 +3606,6 @@
  {
   "name": "Pumpkin Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -4454,12 +3641,6 @@
  {
   "name": "Roasted Carrot with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -4491,13 +3672,6 @@
  {
   "name": "Pancit Canton with Egg",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -4538,11 +3712,6 @@
  {
   "name": "Corn Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -4570,10 +3739,6 @@
  {
   "name": "Garlic Butter Skillet Squid",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -4603,23 +3768,16 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Broccoli",
-  "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
+  "name": "Potato Hash with Corn",
+  "time": 25,
   "ingredients": [
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "2",
+    "name": "potato"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
+    "qty": "1 cup",
+    "name": "corn"
    },
    {
     "qty": "1",
@@ -4635,62 +3793,37 @@
    }
   ],
   "steps": [
-   "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the broccoli and cook, stirring, until just tender.",
-   "Season with salt and pepper."
+   "Dice the potatoes small and pan-fry in oil until golden, about 12 minutes.",
+   "Add the corn and the rest of the aromatics and cook 5 minutes.",
+   "Season with salt and serve hot."
   ]
  },
  {
-  "name": "Pork Congee",
-  "time": 45,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice"
-  ],
+  "name": "Apple Smoothie",
+  "time": 10,
   "ingredients": [
    {
-    "qty": "400 g",
-    "name": "pork"
+    "qty": "1",
+    "name": "apple"
    },
    {
-    "qty": "1 thumb",
-    "name": "ginger"
+    "qty": "1 cup",
+    "name": "milk"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
+    "qty": "1 tbsp",
+    "name": "honey"
    }
   ],
   "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the pork, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
+   "Peel and chop the apple.",
+   "Blend with the milk and honey until smooth.",
+   "Pour and serve cold."
   ]
  },
  {
   "name": "Mushroom Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup sliced",
@@ -4720,28 +3853,24 @@
   ]
  },
  {
-  "name": "Pork and Carrot Stir-Fry",
+  "name": "Pork and Broccoli Stir-Fry",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
     "name": "pork"
    },
    {
-    "qty": "2",
-    "name": "carrot"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -4749,19 +3878,14 @@
    }
   ],
   "steps": [
-   "Slice the pork and carrot into bite-size pieces.",
+   "Slice the pork and broccoli into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Mushroom Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -4798,12 +3922,6 @@
  {
   "name": "Tomato Mushroom Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -4835,12 +3953,6 @@
  {
   "name": "Lentil Soup",
   "time": 40,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -4880,12 +3992,6 @@
  {
   "name": "Bell Pepper and Onion Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -4913,12 +4019,6 @@
  {
   "name": "Tofu Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -4955,13 +4055,6 @@
  {
   "name": "Mango and Cucumber Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -4993,11 +4086,6 @@
  {
   "name": "Tuna and Cucumber Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -5025,12 +4113,6 @@
  {
   "name": "Cheese Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -5066,12 +4148,6 @@
  {
   "name": "Roasted Broccoli with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -5103,12 +4179,6 @@
  {
   "name": "Pancit Canton with Sausage",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -5149,11 +4219,6 @@
  {
   "name": "Tomato Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -5181,11 +4246,6 @@
  {
   "name": "Garlic Butter Skillet Corn",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -5215,23 +4275,16 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Spinach",
-  "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
+  "name": "Potato Hash with Cheese",
+  "time": 25,
   "ingredients": [
    {
-    "qty": "1 bunch",
-    "name": "spinach"
+    "qty": "2",
+    "name": "potato"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
+    "qty": "1/2 cup",
+    "name": "cheese"
    },
    {
     "qty": "1",
@@ -5247,62 +4300,41 @@
    }
   ],
   "steps": [
-   "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the spinach and cook, stirring, until just tender.",
-   "Season with salt and pepper."
+   "Dice the potatoes small and pan-fry in oil until golden, about 12 minutes.",
+   "Add the cheese and the rest of the aromatics and cook 5 minutes.",
+   "Season with salt and serve hot."
   ]
  },
  {
-  "name": "Shrimp Congee",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice"
-  ],
+  "name": "Spinach Smoothie",
+  "time": 10,
   "ingredients": [
    {
-    "qty": "300 g",
-    "name": "shrimp"
+    "qty": "1 bunch",
+    "name": "spinach"
    },
    {
-    "qty": "1 thumb",
-    "name": "ginger"
+    "qty": "2",
+    "name": "banana"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
+    "qty": "1 cup",
+    "name": "milk"
    },
    {
-    "qty": "4 cups",
-    "name": "water"
-   },
-   {
-    "qty": "to taste",
-    "name": "salt"
-   },
-   {
-    "qty": "1 cup uncooked",
-    "name": "rice"
+    "qty": "1 tbsp",
+    "name": "honey"
    }
   ],
   "steps": [
-   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the shrimp, ginger and garlic and cook until done.",
-   "Season with salt and serve hot."
+   "Peel and chop the spinach.",
+   "Blend with the milk and honey until smooth.",
+   "Pour and serve cold."
   ]
  },
  {
   "name": "Tofu Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -5332,20 +4364,16 @@
   ]
  },
  {
-  "name": "Pork and Broccoli Stir-Fry",
+  "name": "Pork and Cabbage Stir-Fry",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
     "name": "pork"
    },
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "2 cups shredded",
+    "name": "cabbage"
    },
    {
     "qty": "4 cloves",
@@ -5361,19 +4389,14 @@
    }
   ],
   "steps": [
-   "Slice the pork and broccoli into bite-size pieces.",
+   "Slice the pork and cabbage into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Tofu Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -5410,11 +4433,6 @@
  {
   "name": "Creamy Mushroom Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -5446,12 +4464,6 @@
  {
   "name": "Broccoli and Cheese Soup",
   "time": 30,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -5491,12 +4503,6 @@
  {
   "name": "Corn and Cheese Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -5524,11 +4530,6 @@
  {
   "name": "Egg Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -5565,11 +4566,6 @@
  {
   "name": "Shrimp and Avocado Salad",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -5602,11 +4598,6 @@
  {
   "name": "Chicken and Cheese Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -5634,12 +4625,6 @@
  {
   "name": "Pineapple Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -5675,12 +4660,6 @@
  {
   "name": "Roasted Cauliflower with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -5712,12 +4691,6 @@
  {
   "name": "Pancit Canton with Squid",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -5758,10 +4731,6 @@
  {
   "name": "Shrimp Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -5789,11 +4758,6 @@
  {
   "name": "Garlic Butter Skillet Potato",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -5823,19 +4787,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Cabbage",
+  "name": "Garlic Sauteed Broccoli",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "2 cups shredded",
-    "name": "cabbage"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
     "qty": "4 cloves",
@@ -5856,24 +4813,17 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the cabbage and cook, stirring, until just tender.",
+   "Add the broccoli and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Mushroom Congee",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice",
-   "vegetarian",
-   "vegan"
-  ],
+  "name": "Chicken Congee",
+  "time": 45,
   "ingredients": [
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "400 g",
+    "name": "chicken"
    },
    {
     "qty": "1 thumb",
@@ -5898,20 +4848,13 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the mushroom, ginger and garlic and cook until done.",
+   "Add the chicken, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
  {
   "name": "Egg Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -5941,20 +4884,16 @@
   ]
  },
  {
-  "name": "Pork and Cabbage Stir-Fry",
+  "name": "Pork and Bell Pepper Stir-Fry",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
     "name": "pork"
    },
    {
-    "qty": "2 cups shredded",
-    "name": "cabbage"
+    "qty": "1",
+    "name": "bell pepper"
    },
    {
     "qty": "4 cloves",
@@ -5970,18 +4909,14 @@
    }
   ],
   "steps": [
-   "Slice the pork and cabbage into bite-size pieces.",
+   "Slice the pork and bell pepper into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Bacon Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -6018,10 +4953,6 @@
  {
   "name": "Garlic Sausage Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -6049,10 +4980,6 @@
  {
   "name": "Cabbage and Sausage Soup",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "2 cups shredded",
@@ -6092,11 +5019,6 @@
  {
   "name": "Tuna and Onion Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -6124,12 +5046,6 @@
  {
   "name": "Pumpkin Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2 cups cubed",
@@ -6166,11 +5082,6 @@
  {
   "name": "Pasta and Tuna Salad",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -6203,12 +5114,6 @@
  {
   "name": "Egg and Cheese Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -6236,12 +5141,6 @@
  {
   "name": "Mango Pancakes",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 1/2 cups",
@@ -6277,12 +5176,6 @@
  {
   "name": "Roasted Pumpkin with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2 cups cubed",
@@ -6314,12 +5207,6 @@
  {
   "name": "Pancit Canton with Ham",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -6360,10 +5247,6 @@
  {
   "name": "Sausage Quesadilla",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -6391,11 +5274,6 @@
  {
   "name": "Garlic Butter Skillet Broccoli",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -6425,19 +5303,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Green Beans",
+  "name": "Garlic Sauteed Spinach",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1 cup",
-    "name": "green beans"
+    "qty": "1 bunch",
+    "name": "spinach"
    },
    {
     "qty": "4 cloves",
@@ -6458,24 +5329,17 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the green beans and cook, stirring, until just tender.",
+   "Add the spinach and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Tofu Congee",
+  "name": "Egg Congee",
   "time": 35,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1 block",
-    "name": "tofu"
+    "qty": "2",
+    "name": "egg"
    },
    {
     "qty": "1 thumb",
@@ -6500,21 +5364,13 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the tofu, ginger and garlic and cook until done.",
+   "Add the egg, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
  {
   "name": "Potato Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -6544,28 +5400,24 @@
   ]
  },
  {
-  "name": "Pork and Bell Pepper Stir-Fry",
+  "name": "Pork and Mushroom Stir-Fry",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
     "name": "pork"
    },
    {
-    "qty": "1",
-    "name": "bell pepper"
+    "qty": "1 cup sliced",
+    "name": "mushroom"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -6573,18 +5425,14 @@
    }
   ],
   "steps": [
-   "Slice the pork and bell pepper into bite-size pieces.",
+   "Slice the pork and mushroom into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Sausage Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -6621,10 +5469,6 @@
  {
   "name": "Tomato Sausage Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -6656,12 +5500,6 @@
  {
   "name": "Spinach and Egg Drop Soup",
   "time": 15,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 bunch",
@@ -6697,11 +5535,6 @@
  {
   "name": "Shrimp and Garlic Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -6729,12 +5562,6 @@
  {
   "name": "Eggplant Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -6771,13 +5598,6 @@
  {
   "name": "Apple and Cabbage Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -6809,11 +5629,6 @@
  {
   "name": "Bacon and Lettuce Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -6841,12 +5656,6 @@
  {
   "name": "Banana Oatmeal",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1/2 cup",
@@ -6870,12 +5679,6 @@
  {
   "name": "Roasted Eggplant with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -6907,12 +5710,6 @@
  {
   "name": "Pancit Canton with Bacon",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -6953,10 +5750,6 @@
  {
   "name": "Chicken Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -6990,19 +5783,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Mushroom",
+  "name": "Garlic Sauteed Cabbage",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "2 cups shredded",
+    "name": "cabbage"
    },
    {
     "qty": "4 cloves",
@@ -7023,22 +5809,17 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the mushroom and cook, stirring, until just tender.",
+   "Add the cabbage and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Fish Congee",
-  "time": 40,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice"
-  ],
+  "name": "Pork Congee",
+  "time": 45,
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "fish"
+    "name": "pork"
    },
    {
     "qty": "1 thumb",
@@ -7063,21 +5844,13 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the fish, ginger and garlic and cook until done.",
+   "Add the pork, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
  {
   "name": "Green Beans Adobo",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "filipino",
-   "rice",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -7107,20 +5880,16 @@
   ]
  },
  {
-  "name": "Pork and Mushroom Stir-Fry",
+  "name": "Pork and Green Beans Stir-Fry",
   "time": 25,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
     "name": "pork"
    },
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "1 cup",
+    "name": "green beans"
    },
    {
     "qty": "4 cloves",
@@ -7136,19 +5905,14 @@
    }
   ],
   "steps": [
-   "Slice the pork and mushroom into bite-size pieces.",
+   "Slice the pork and green beans into bite-size pieces.",
    "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Cabbage Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -7185,10 +5949,6 @@
  {
   "name": "Creamy Sausage Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -7220,10 +5980,6 @@
  {
   "name": "Pork and Radish Soup",
   "time": 50,
-  "servings": 4,
-  "tags": [
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -7263,12 +6019,6 @@
  {
   "name": "Potato and Onion Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -7296,12 +6046,6 @@
  {
   "name": "Cauliflower Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -7338,12 +6082,6 @@
  {
   "name": "Lettuce and Egg Salad",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -7376,11 +6114,6 @@
  {
   "name": "Sausage and Onion Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -7408,12 +6141,6 @@
  {
   "name": "Apple Oatmeal",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1/2 cup",
@@ -7437,12 +6164,6 @@
  {
   "name": "Roasted Tomato with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -7474,14 +6195,6 @@
  {
   "name": "Pancit Canton with Peas",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "filipino",
-   "noodles",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -7522,10 +6235,6 @@
  {
   "name": "Beef Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -7559,19 +6268,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Carrot",
+  "name": "Garlic Sauteed Green Beans",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "2",
-    "name": "carrot"
+    "qty": "1 cup",
+    "name": "green beans"
    },
    {
     "qty": "4 cloves",
@@ -7592,22 +6294,17 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the carrot and cook, stirring, until just tender.",
+   "Add the green beans and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef Congee",
-  "time": 50,
-  "servings": 3,
-  "tags": [
-   "soup",
-   "rice"
-  ],
+  "name": "Shrimp Congee",
+  "time": 35,
   "ingredients": [
    {
-    "qty": "400 g",
-    "name": "beef"
+    "qty": "300 g",
+    "name": "shrimp"
    },
    {
     "qty": "1 thumb",
@@ -7632,25 +6329,21 @@
   ],
   "steps": [
    "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
-   "Add the beef, ginger and garlic and cook until done.",
+   "Add the shrimp, ginger and garlic and cook until done.",
    "Season with salt and serve hot."
   ]
  },
  {
-  "name": "Pork and Green Beans Stir-Fry",
-  "time": 25,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
+  "name": "Beef and Carrot Stir-Fry",
+  "time": 30,
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "pork"
+    "name": "beef"
    },
    {
-    "qty": "1 cup",
-    "name": "green beans"
+    "qty": "2",
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
@@ -7666,19 +6359,14 @@
    }
   ],
   "steps": [
-   "Slice the pork and green beans into bite-size pieces.",
-   "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
+   "Slice the beef and carrot into bite-size pieces.",
+   "Stir-fry the garlic and beef in hot oil until cooked through.",
+   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Spinach Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -7715,10 +6403,6 @@
  {
   "name": "Garlic Tuna Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -7746,10 +6430,6 @@
  {
   "name": "Beef and Potato Soup",
   "time": 70,
-  "servings": 4,
-  "tags": [
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -7789,12 +6469,6 @@
  {
   "name": "Mushroom and Spinach Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -7822,12 +6496,6 @@
  {
   "name": "Spinach Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 bunch",
@@ -7864,13 +6532,6 @@
  {
   "name": "Cucumber and Onion Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -7902,12 +6563,6 @@
  {
   "name": "Cheese and Cucumber Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -7935,12 +6590,6 @@
  {
   "name": "Strawberry Oatmeal",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1/2 cup",
@@ -7964,12 +6613,6 @@
  {
   "name": "Roasted Mushroom with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup sliced",
@@ -8001,10 +6644,6 @@
  {
   "name": "Pork Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -8038,19 +6677,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Corn",
+  "name": "Garlic Sauteed Mushroom",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1 cup",
-    "name": "corn"
+    "qty": "1 cup sliced",
+    "name": "mushroom"
    },
    {
     "qty": "4 cloves",
@@ -8071,25 +6703,56 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the corn and cook, stirring, until just tender.",
+   "Add the mushroom and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Pork and Tomato Stir-Fry",
-  "time": 25,
-  "servings": 3,
-  "tags": [
-   "quick"
+  "name": "Mushroom Congee",
+  "time": 35,
+  "ingredients": [
+   {
+    "qty": "1 cup sliced",
+    "name": "mushroom"
+   },
+   {
+    "qty": "1 thumb",
+    "name": "ginger"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
+   }
   ],
+  "steps": [
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the mushroom, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
+  ]
+ },
+ {
+  "name": "Beef and Broccoli Stir-Fry",
+  "time": 30,
   "ingredients": [
    {
     "qty": "400 g",
-    "name": "pork"
+    "name": "beef"
    },
    {
-    "qty": "2",
-    "name": "tomato"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
     "qty": "4 cloves",
@@ -8105,19 +6768,14 @@
    }
   ],
   "steps": [
-   "Slice the pork and tomato into bite-size pieces.",
-   "Stir-fry the garlic and pork in hot oil until cooked through.",
-   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Slice the beef and broccoli into bite-size pieces.",
+   "Stir-fry the garlic and beef in hot oil until cooked through.",
+   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Pineapple Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -8154,10 +6812,6 @@
  {
   "name": "Tomato Tuna Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -8189,11 +6843,6 @@
  {
   "name": "Shrimp and Corn Soup",
   "time": 20,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -8233,12 +6882,6 @@
  {
   "name": "Tomato and Spinach Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -8266,10 +6909,6 @@
  {
   "name": "Fish Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -8306,13 +6945,6 @@
  {
   "name": "Tomato and Onion Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -8344,11 +6976,6 @@
  {
   "name": "Ham and Tomato Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -8376,12 +7003,6 @@
  {
   "name": "Blueberry Oatmeal",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1/2 cup",
@@ -8405,12 +7026,6 @@
  {
   "name": "Roasted Zucchini with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -8442,10 +7057,6 @@
  {
   "name": "Shrimp Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -8479,19 +7090,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Zucchini",
+  "name": "Garlic Sauteed Carrot",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1",
-    "name": "zucchini"
+    "qty": "2",
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
@@ -8512,33 +7116,64 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the zucchini and cook, stirring, until just tender.",
+   "Add the carrot and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef and Carrot Stir-Fry",
-  "time": 30,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
+  "name": "Tofu Congee",
+  "time": 35,
   "ingredients": [
    {
-    "qty": "400 g",
-    "name": "beef"
+    "qty": "1 block",
+    "name": "tofu"
    },
    {
-    "qty": "2",
-    "name": "carrot"
+    "qty": "1 thumb",
+    "name": "ginger"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
+   }
+  ],
+  "steps": [
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the tofu, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
+  ]
+ },
+ {
+  "name": "Beef and Cabbage Stir-Fry",
+  "time": 30,
+  "ingredients": [
+   {
+    "qty": "400 g",
+    "name": "beef"
+   },
+   {
+    "qty": "2 cups shredded",
+    "name": "cabbage"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -8546,18 +7181,14 @@
    }
   ],
   "steps": [
-   "Slice the beef and carrot into bite-size pieces.",
+   "Slice the beef and cabbage into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
+   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Beef Fried Rice",
   "time": 15,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3 cups cooked",
@@ -8594,10 +7225,6 @@
  {
   "name": "Creamy Tuna Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -8629,13 +7256,6 @@
  {
   "name": "Tofu and Mushroom Soup",
   "time": 20,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -8675,11 +7295,6 @@
  {
   "name": "Ham and Bell Pepper Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -8707,12 +7322,6 @@
  {
   "name": "Mushroom Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup sliced",
@@ -8749,13 +7358,6 @@
  {
   "name": "Carrot and Apple Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -8787,12 +7389,6 @@
  {
   "name": "Avocado and Tomato Sandwich",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "sandwich",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4 slices",
@@ -8820,12 +7416,6 @@
  {
   "name": "Mango Oatmeal",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1/2 cup",
@@ -8849,12 +7439,6 @@
  {
   "name": "Roasted Cabbage with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2 cups shredded",
@@ -8886,10 +7470,6 @@
  {
   "name": "Fish Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -8923,19 +7503,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Eggplant",
+  "name": "Garlic Sauteed Corn",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "2",
-    "name": "eggplant"
+    "qty": "1 cup",
+    "name": "corn"
    },
    {
     "qty": "4 cloves",
@@ -8956,25 +7529,56 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the eggplant and cook, stirring, until just tender.",
+   "Add the corn and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef and Broccoli Stir-Fry",
-  "time": 30,
-  "servings": 3,
-  "tags": [
-   "quick"
+  "name": "Fish Congee",
+  "time": 40,
+  "ingredients": [
+   {
+    "qty": "400 g",
+    "name": "fish"
+   },
+   {
+    "qty": "1 thumb",
+    "name": "ginger"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
+   }
   ],
+  "steps": [
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the fish, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
+  ]
+ },
+ {
+  "name": "Beef and Bell Pepper Stir-Fry",
+  "time": 30,
   "ingredients": [
    {
     "qty": "400 g",
     "name": "beef"
    },
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "1",
+    "name": "bell pepper"
    },
    {
     "qty": "4 cloves",
@@ -8990,18 +7594,14 @@
    }
   ],
   "steps": [
-   "Slice the beef and broccoli into bite-size pieces.",
+   "Slice the beef and bell pepper into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Garlic Bacon Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -9029,12 +7629,6 @@
  {
   "name": "Pumpkin and Coconut Soup",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2 cups cubed",
@@ -9074,11 +7668,6 @@
  {
   "name": "Bacon and Tomato Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -9106,12 +7695,6 @@
  {
   "name": "Carrot Curry",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "curry",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "2",
@@ -9148,13 +7731,6 @@
  {
   "name": "Chickpeas and Cucumber Salad",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 can",
@@ -9185,14 +7761,31 @@
   ]
  },
  {
+  "name": "Pineapple Oatmeal",
+  "time": 10,
+  "ingredients": [
+   {
+    "qty": "1/2 cup",
+    "name": "oats"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   },
+   {
+    "qty": "1 cup",
+    "name": "pineapple"
+   }
+  ],
+  "steps": [
+   "Simmer the oats in the milk for 5 minutes, stirring.",
+   "Stir in or top with the pineapple.",
+   "Serve warm."
+  ]
+ },
+ {
   "name": "Roasted Corn with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -9224,11 +7817,6 @@
  {
   "name": "Egg Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -9262,19 +7850,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Cauliflower",
+  "name": "Garlic Sauteed Zucchini",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1 head",
-    "name": "cauliflower"
+    "qty": "1",
+    "name": "zucchini"
    },
    {
     "qty": "4 cloves",
@@ -9295,33 +7876,64 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the cauliflower and cook, stirring, until just tender.",
+   "Add the zucchini and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef and Cabbage Stir-Fry",
-  "time": 30,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
+  "name": "Beef Congee",
+  "time": 50,
   "ingredients": [
    {
     "qty": "400 g",
     "name": "beef"
    },
    {
-    "qty": "2 cups shredded",
-    "name": "cabbage"
+    "qty": "1 thumb",
+    "name": "ginger"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "4 cups",
+    "name": "water"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
+   },
+   {
+    "qty": "1 cup uncooked",
+    "name": "rice"
+   }
+  ],
+  "steps": [
+   "Simmer the rice in 6 cups of water, stirring now and then, until it breaks down into a porridge.",
+   "Add the beef, ginger and garlic and cook until done.",
+   "Season with salt and serve hot."
+  ]
+ },
+ {
+  "name": "Beef and Mushroom Stir-Fry",
+  "time": 30,
+  "ingredients": [
+   {
+    "qty": "400 g",
+    "name": "beef"
+   },
+   {
+    "qty": "1 cup sliced",
+    "name": "mushroom"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -9329,18 +7941,14 @@
    }
   ],
   "steps": [
-   "Slice the beef and cabbage into bite-size pieces.",
+   "Slice the beef and mushroom into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the cabbage and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Tomato Bacon Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -9372,13 +7980,6 @@
  {
   "name": "Chickpea and Spinach Soup",
   "time": 30,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 can",
@@ -9422,12 +8023,6 @@
  {
   "name": "Cheese and Onion Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -9455,13 +8050,6 @@
  {
   "name": "Lentils and Tomato Salad",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -9492,14 +8080,31 @@
   ]
  },
  {
+  "name": "Honey Oatmeal",
+  "time": 10,
+  "ingredients": [
+   {
+    "qty": "1/2 cup",
+    "name": "oats"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   },
+   {
+    "qty": "1 tbsp",
+    "name": "honey"
+   }
+  ],
+  "steps": [
+   "Simmer the oats in the milk for 5 minutes, stirring.",
+   "Stir in or top with the honey.",
+   "Serve warm."
+  ]
+ },
+ {
   "name": "Roasted Onion with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -9531,11 +8136,6 @@
  {
   "name": "Mushroom Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -9569,19 +8169,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Bell Pepper",
+  "name": "Garlic Sauteed Eggplant",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1",
-    "name": "bell pepper"
+    "qty": "2",
+    "name": "eggplant"
    },
    {
     "qty": "4 cloves",
@@ -9602,33 +8195,29 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the bell pepper and cook, stirring, until just tender.",
+   "Add the eggplant and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef and Bell Pepper Stir-Fry",
+  "name": "Beef and Green Beans Stir-Fry",
   "time": 30,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
     "name": "beef"
    },
    {
-    "qty": "1",
-    "name": "bell pepper"
+    "qty": "1 cup",
+    "name": "green beans"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
+    "qty": "3 tbsp",
+    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
@@ -9636,18 +8225,14 @@
    }
   ],
   "steps": [
-   "Slice the beef and bell pepper into bite-size pieces.",
+   "Slice the beef and green beans into bite-size pieces.",
    "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the bell pepper and oyster sauce and cook 4 minutes more. Serve with rice."
+   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Creamy Bacon Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -9679,11 +8264,6 @@
  {
   "name": "Fish and Tomato Soup",
   "time": 25,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -9723,12 +8303,6 @@
  {
   "name": "Corn and Bell Pepper Omelette",
   "time": 10,
-  "servings": 1,
-  "tags": [
-   "breakfast",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -9756,13 +8330,6 @@
  {
   "name": "Bell Pepper and Cucumber Salad",
   "time": 10,
-  "servings": 2,
-  "tags": [
-   "salad",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -9792,14 +8359,31 @@
   ]
  },
  {
+  "name": "Pumpkin Oatmeal",
+  "time": 10,
+  "ingredients": [
+   {
+    "qty": "1/2 cup",
+    "name": "oats"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   },
+   {
+    "qty": "2 cups cubed",
+    "name": "pumpkin"
+   }
+  ],
+  "steps": [
+   "Simmer the oats in the milk for 5 minutes, stirring.",
+   "Stir in or top with the pumpkin.",
+   "Serve warm."
+  ]
+ },
+ {
   "name": "Roasted Bell Pepper with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1",
@@ -9831,11 +8415,6 @@
  {
   "name": "Potato Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -9869,19 +8448,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Kangkong",
+  "name": "Garlic Sauteed Cauliflower",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1 bunch",
-    "name": "kangkong"
+    "qty": "1 head",
+    "name": "cauliflower"
    },
    {
     "qty": "4 cloves",
@@ -9902,25 +8474,21 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the kangkong and cook, stirring, until just tender.",
+   "Add the cauliflower and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef and Mushroom Stir-Fry",
-  "time": 30,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
+  "name": "Shrimp and Carrot Stir-Fry",
+  "time": 20,
   "ingredients": [
    {
-    "qty": "400 g",
-    "name": "beef"
+    "qty": "300 g",
+    "name": "shrimp"
    },
    {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
+    "qty": "2",
+    "name": "carrot"
    },
    {
     "qty": "4 cloves",
@@ -9936,20 +8504,14 @@
    }
   ],
   "steps": [
-   "Slice the beef and mushroom into bite-size pieces.",
-   "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the mushroom and soy sauce and cook 4 minutes more. Serve with rice."
+   "Slice the shrimp and carrot into bite-size pieces.",
+   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
+   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Garlic Spinach Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -9977,10 +8539,6 @@
  {
   "name": "Chicken and Corn Soup",
   "time": 35,
-  "servings": 4,
-  "tags": [
-   "soup"
-  ],
   "ingredients": [
    {
     "qty": "400 g",
@@ -10020,12 +8578,6 @@
  {
   "name": "Roasted Green Beans with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 cup",
@@ -10057,11 +8609,6 @@
  {
   "name": "Tofu Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -10095,19 +8642,12 @@
   ]
  },
  {
-  "name": "Garlic Sauteed Peas",
+  "name": "Garlic Sauteed Bell Pepper",
   "time": 12,
-  "servings": 2,
-  "tags": [
-   "side",
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
-    "qty": "1/2 cup",
-    "name": "peas"
+    "qty": "1",
+    "name": "bell pepper"
    },
    {
     "qty": "4 cloves",
@@ -10128,33 +8668,29 @@
   ],
   "steps": [
    "Heat oil and sauté the garlic and onion until fragrant.",
-   "Add the peas and cook, stirring, until just tender.",
+   "Add the bell pepper and cook, stirring, until just tender.",
    "Season with salt and pepper."
   ]
  },
  {
-  "name": "Beef and Green Beans Stir-Fry",
-  "time": 30,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
+  "name": "Shrimp and Broccoli Stir-Fry",
+  "time": 20,
   "ingredients": [
    {
-    "qty": "400 g",
-    "name": "beef"
+    "qty": "300 g",
+    "name": "shrimp"
    },
    {
-    "qty": "1 cup",
-    "name": "green beans"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "2 tbsp",
+    "name": "oyster sauce"
    },
    {
     "qty": "2 tbsp",
@@ -10162,20 +8698,14 @@
    }
   ],
   "steps": [
-   "Slice the beef and green beans into bite-size pieces.",
-   "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the green beans and soy sauce and cook 4 minutes more. Serve with rice."
+   "Slice the shrimp and broccoli into bite-size pieces.",
+   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
+   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Tomato Spinach Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
@@ -10207,12 +8737,6 @@
  {
   "name": "Cauliflower Soup",
   "time": 30,
-  "servings": 4,
-  "tags": [
-   "soup",
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "1 head",
@@ -10252,10 +8776,6 @@
  {
   "name": "Roasted Sausage with Garlic",
   "time": 45,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
   "ingredients": [
    {
     "qty": "3",
@@ -10287,10 +8807,6 @@
  {
   "name": "Bacon Tacos",
   "time": 20,
-  "servings": 2,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "4",
@@ -10324,364 +8840,39 @@
   ]
  },
  {
-  "name": "Baked Cheesy Chicken Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
+  "name": "Garlic Sauteed Kangkong",
+  "time": 12,
   "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "400 g",
-    "name": "chicken"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and chicken in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
-  ]
- },
- {
-  "name": "Beef and Tomato Stir-Fry",
-  "time": 30,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
-  "ingredients": [
-   {
-    "qty": "400 g",
-    "name": "beef"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Slice the beef and tomato into bite-size pieces.",
-   "Stir-fry the garlic and beef in hot oil until cooked through.",
-   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
-  ]
- },
- {
-  "name": "Creamy Spinach Spaghetti",
-  "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
-  "ingredients": [
-   {
-    "qty": "200 g",
-    "name": "pasta"
-   },
    {
     "qty": "1 bunch",
-    "name": "spinach"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cream"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
+    "name": "kangkong"
    },
    {
     "qty": "4 cloves",
     "name": "garlic"
-   }
-  ],
-  "steps": [
-   "Boil the pasta in salted water until al dente and save a cup of the water.",
-   "Cook the spinach with garlic, pour in the cream and simmer, then melt in the cheese.",
-   "Toss the pasta through the sauce, loosening with pasta water. Season and serve."
-  ]
- },
- {
-  "name": "Baked Cheesy Tuna Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "1 can",
-    "name": "tuna"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
    },
    {
     "qty": "1",
     "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and tuna in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
-  ]
- },
- {
-  "name": "Shrimp and Carrot Stir-Fry",
-  "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
-  "ingredients": [
-   {
-    "qty": "300 g",
-    "name": "shrimp"
-   },
-   {
-    "qty": "2",
-    "name": "carrot"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
    },
    {
     "qty": "2 tbsp",
     "name": "oil"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
    }
   ],
   "steps": [
-   "Slice the shrimp and carrot into bite-size pieces.",
-   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the carrot and soy sauce and cook 4 minutes more. Serve with rice."
-  ]
- },
- {
-  "name": "Garlic Broccoli Spaghetti",
-  "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
-  "ingredients": [
-   {
-    "qty": "200 g",
-    "name": "pasta"
-   },
-   {
-    "qty": "1 head",
-    "name": "broccoli"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Boil the pasta in salted water until al dente and save a cup of the water.",
-   "Fry plenty of sliced garlic in oil until golden, then add the broccoli and cook through.",
-   "Toss the pasta through the sauce, loosening with pasta water. Season and serve."
-  ]
- },
- {
-  "name": "Baked Cheesy Sausage Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "3",
-    "name": "sausage"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and sausage in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
-  ]
- },
- {
-  "name": "Shrimp and Broccoli Stir-Fry",
-  "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
-  "ingredients": [
-   {
-    "qty": "300 g",
-    "name": "shrimp"
-   },
-   {
-    "qty": "1 head",
-    "name": "broccoli"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Slice the shrimp and broccoli into bite-size pieces.",
-   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the broccoli and oyster sauce and cook 4 minutes more. Serve with rice."
-  ]
- },
- {
-  "name": "Tomato Broccoli Spaghetti",
-  "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
-  "ingredients": [
-   {
-    "qty": "200 g",
-    "name": "pasta"
-   },
-   {
-    "qty": "1 head",
-    "name": "broccoli"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   }
-  ],
-  "steps": [
-   "Boil the pasta in salted water until al dente and save a cup of the water.",
-   "Sauté the onion and garlic, add chopped tomatoes and the broccoli, and simmer 10 minutes.",
-   "Toss the pasta through the sauce, loosening with pasta water. Season and serve."
-  ]
- },
- {
-  "name": "Baked Cheesy Mushroom Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian"
-  ],
-  "ingredients": [
-   {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "1 cup sliced",
-    "name": "mushroom"
-   },
-   {
-    "qty": "1/2 cup",
-    "name": "cheese"
-   },
-   {
-    "qty": "1",
-    "name": "onion"
-   },
-   {
-    "qty": "1 cup",
-    "name": "milk"
-   }
-  ],
-  "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and mushroom in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
+   "Heat oil and sauté the garlic and onion until fragrant.",
+   "Add the kangkong and cook, stirring, until just tender.",
+   "Season with salt and pepper."
   ]
  },
  {
   "name": "Shrimp and Cabbage Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -10711,21 +8902,16 @@
   ]
  },
  {
-  "name": "Creamy Broccoli Spaghetti",
+  "name": "Creamy Spinach Spaghetti",
   "time": 25,
-  "servings": 2,
-  "tags": [
-   "quick",
-   "vegetarian"
-  ],
   "ingredients": [
    {
     "qty": "200 g",
     "name": "pasta"
    },
    {
-    "qty": "1 head",
-    "name": "broccoli"
+    "qty": "1 bunch",
+    "name": "spinach"
    },
    {
     "qty": "1/2 cup",
@@ -10742,52 +8928,44 @@
   ],
   "steps": [
    "Boil the pasta in salted water until al dente and save a cup of the water.",
-   "Cook the broccoli with garlic, pour in the cream and simmer, then melt in the cheese.",
+   "Cook the spinach with garlic, pour in the cream and simmer, then melt in the cheese.",
    "Toss the pasta through the sauce, loosening with pasta water. Season and serve."
   ]
  },
  {
-  "name": "Baked Cheesy Shrimp Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
-  ],
+  "name": "Garlic Sauteed Peas",
+  "time": 12,
   "ingredients": [
    {
-    "qty": "3 cups cooked",
-    "name": "rice"
-   },
-   {
-    "qty": "300 g",
-    "name": "shrimp"
-   },
-   {
     "qty": "1/2 cup",
-    "name": "cheese"
+    "name": "peas"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
    },
    {
     "qty": "1",
     "name": "onion"
    },
    {
-    "qty": "1 cup",
-    "name": "milk"
+    "qty": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
    }
   ],
   "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and shrimp in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
+   "Heat oil and sauté the garlic and onion until fragrant.",
+   "Add the peas and cook, stirring, until just tender.",
+   "Season with salt and pepper."
   ]
  },
  {
   "name": "Shrimp and Bell Pepper Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -10817,48 +8995,66 @@
   ]
  },
  {
-  "name": "Baked Cheesy Egg Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian"
-  ],
+  "name": "Garlic Broccoli Spaghetti",
+  "time": 25,
   "ingredients": [
    {
-    "qty": "3 cups cooked",
-    "name": "rice"
+    "qty": "200 g",
+    "name": "pasta"
    },
    {
-    "qty": "2",
-    "name": "egg"
+    "qty": "1 head",
+    "name": "broccoli"
    },
    {
-    "qty": "1/2 cup",
-    "name": "cheese"
+    "qty": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "qty": "2 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Boil the pasta in salted water until al dente and save a cup of the water.",
+   "Fry plenty of sliced garlic in oil until golden, then add the broccoli and cook through.",
+   "Toss the pasta through the sauce, loosening with pasta water. Season and serve."
+  ]
+ },
+ {
+  "name": "Garlic Sauteed Pumpkin",
+  "time": 12,
+  "ingredients": [
+   {
+    "qty": "2 cups cubed",
+    "name": "pumpkin"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
    },
    {
     "qty": "1",
     "name": "onion"
    },
    {
-    "qty": "1 cup",
-    "name": "milk"
+    "qty": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "qty": "to taste",
+    "name": "salt"
    }
   ],
   "steps": [
-   "Heat the oven to 190°C (375°F).",
-   "Cook the onion and egg in a pan, then mix with the rice and milk in a baking dish.",
-   "Top with cheese and bake 20 minutes until bubbly."
+   "Heat oil and sauté the garlic and onion until fragrant.",
+   "Add the pumpkin and cook, stirring, until just tender.",
+   "Season with salt and pepper."
   ]
  },
  {
   "name": "Shrimp and Mushroom Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -10888,20 +9084,47 @@
   ]
  },
  {
-  "name": "Baked Cheesy Ham Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven"
+  "name": "Tomato Broccoli Spaghetti",
+  "time": 25,
+  "ingredients": [
+   {
+    "qty": "200 g",
+    "name": "pasta"
+   },
+   {
+    "qty": "1 head",
+    "name": "broccoli"
+   },
+   {
+    "qty": "2",
+    "name": "tomato"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   }
   ],
+  "steps": [
+   "Boil the pasta in salted water until al dente and save a cup of the water.",
+   "Sauté the onion and garlic, add chopped tomatoes and the broccoli, and simmer 10 minutes.",
+   "Toss the pasta through the sauce, loosening with pasta water. Season and serve."
+  ]
+ },
+ {
+  "name": "Baked Cheesy Chicken Rice",
+  "time": 35,
   "ingredients": [
    {
     "qty": "3 cups cooked",
     "name": "rice"
    },
    {
-    "qty": "100 g",
-    "name": "ham"
+    "qty": "400 g",
+    "name": "chicken"
    },
    {
     "qty": "1/2 cup",
@@ -10918,17 +9141,13 @@
   ],
   "steps": [
    "Heat the oven to 190°C (375°F).",
-   "Cook the onion and ham in a pan, then mix with the rice and milk in a baking dish.",
+   "Cook the onion and chicken in a pan, then mix with the rice and milk in a baking dish.",
    "Top with cheese and bake 20 minutes until bubbly."
   ]
  },
  {
   "name": "Shrimp and Green Beans Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
   "ingredients": [
    {
     "qty": "300 g",
@@ -10958,21 +9177,47 @@
   ]
  },
  {
-  "name": "Baked Cheesy Spinach Rice",
-  "time": 35,
-  "servings": 3,
-  "tags": [
-   "oven",
-   "vegetarian"
+  "name": "Creamy Broccoli Spaghetti",
+  "time": 25,
+  "ingredients": [
+   {
+    "qty": "200 g",
+    "name": "pasta"
+   },
+   {
+    "qty": "1 head",
+    "name": "broccoli"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cream"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "4 cloves",
+    "name": "garlic"
+   }
   ],
+  "steps": [
+   "Boil the pasta in salted water until al dente and save a cup of the water.",
+   "Cook the broccoli with garlic, pour in the cream and simmer, then melt in the cheese.",
+   "Toss the pasta through the sauce, loosening with pasta water. Season and serve."
+  ]
+ },
+ {
+  "name": "Baked Cheesy Tuna Rice",
+  "time": 35,
   "ingredients": [
    {
     "qty": "3 cups cooked",
     "name": "rice"
    },
    {
-    "qty": "1 bunch",
-    "name": "spinach"
+    "qty": "1 can",
+    "name": "tuna"
    },
    {
     "qty": "1/2 cup",
@@ -10989,54 +9234,13 @@
   ],
   "steps": [
    "Heat the oven to 190°C (375°F).",
-   "Cook the onion and spinach in a pan, then mix with the rice and milk in a baking dish.",
+   "Cook the onion and tuna in a pan, then mix with the rice and milk in a baking dish.",
    "Top with cheese and bake 20 minutes until bubbly."
-  ]
- },
- {
-  "name": "Shrimp and Tomato Stir-Fry",
-  "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick"
-  ],
-  "ingredients": [
-   {
-    "qty": "300 g",
-    "name": "shrimp"
-   },
-   {
-    "qty": "2",
-    "name": "tomato"
-   },
-   {
-    "qty": "4 cloves",
-    "name": "garlic"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oyster sauce"
-   },
-   {
-    "qty": "2 tbsp",
-    "name": "oil"
-   }
-  ],
-  "steps": [
-   "Slice the shrimp and tomato into bite-size pieces.",
-   "Stir-fry the garlic and shrimp in hot oil until cooked through.",
-   "Add the tomato and oyster sauce and cook 4 minutes more. Serve with rice."
   ]
  },
  {
   "name": "Tofu and Carrot Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -11066,14 +9270,39 @@
   ]
  },
  {
+  "name": "Baked Cheesy Sausage Rice",
+  "time": 35,
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "3",
+    "name": "sausage"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and sausage in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
   "name": "Tofu and Broccoli Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -11103,14 +9332,39 @@
   ]
  },
  {
+  "name": "Baked Cheesy Mushroom Rice",
+  "time": 35,
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "1 cup sliced",
+    "name": "mushroom"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and mushroom in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
   "name": "Tofu and Cabbage Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -11140,14 +9394,39 @@
   ]
  },
  {
+  "name": "Baked Cheesy Shrimp Rice",
+  "time": 35,
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "300 g",
+    "name": "shrimp"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and shrimp in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
   "name": "Tofu and Bell Pepper Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -11177,14 +9456,39 @@
   ]
  },
  {
+  "name": "Baked Cheesy Egg Rice",
+  "time": 35,
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "2",
+    "name": "egg"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and egg in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
   "name": "Tofu and Mushroom Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -11214,14 +9518,39 @@
   ]
  },
  {
+  "name": "Baked Cheesy Ham Rice",
+  "time": 35,
+  "ingredients": [
+   {
+    "qty": "3 cups cooked",
+    "name": "rice"
+   },
+   {
+    "qty": "100 g",
+    "name": "ham"
+   },
+   {
+    "qty": "1/2 cup",
+    "name": "cheese"
+   },
+   {
+    "qty": "1",
+    "name": "onion"
+   },
+   {
+    "qty": "1 cup",
+    "name": "milk"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and ham in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
+  ]
+ },
+ {
   "name": "Tofu and Green Beans Stir-Fry",
   "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
   "ingredients": [
    {
     "qty": "1 block",
@@ -11251,40 +9580,34 @@
   ]
  },
  {
-  "name": "Tofu and Tomato Stir-Fry",
-  "time": 20,
-  "servings": 3,
-  "tags": [
-   "quick",
-   "vegetarian",
-   "vegan"
-  ],
+  "name": "Baked Cheesy Spinach Rice",
+  "time": 35,
   "ingredients": [
    {
-    "qty": "1 block",
-    "name": "tofu"
+    "qty": "3 cups cooked",
+    "name": "rice"
    },
    {
-    "qty": "2",
-    "name": "tomato"
+    "qty": "1 bunch",
+    "name": "spinach"
    },
    {
-    "qty": "4 cloves",
-    "name": "garlic"
+    "qty": "1/2 cup",
+    "name": "cheese"
    },
    {
-    "qty": "3 tbsp",
-    "name": "soy sauce"
+    "qty": "1",
+    "name": "onion"
    },
    {
-    "qty": "2 tbsp",
-    "name": "oil"
+    "qty": "1 cup",
+    "name": "milk"
    }
   ],
   "steps": [
-   "Slice the tofu and tomato into bite-size pieces.",
-   "Stir-fry the garlic and tofu in hot oil until cooked through.",
-   "Add the tomato and soy sauce and cook 4 minutes more. Serve with rice."
+   "Heat the oven to 190°C (375°F).",
+   "Cook the onion and spinach in a pan, then mix with the rice and milk in a baking dish.",
+   "Top with cheese and bake 20 minutes until bubbly."
   ]
  }
 ]

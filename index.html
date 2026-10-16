@@ -54,7 +54,7 @@
     function card(r, full) {
       const c = el('article', 'card');
       c.appendChild(el('h3', null, r.name));
-      c.appendChild(el('p', 'meta', `${r.time} min, ${r.servings}  |  ${r.tags.join(', ')}`));
+      c.appendChild(el('p', 'meta', `${r.time} min`));
       if (r.have) {
         if (r.have.length) c.appendChild(el('p', 'have', 'You have: ' + r.have.join(', ')));
         c.appendChild(el('p', 'miss', r.missing.length ? 'Still need: ' + r.missing.join(', ') : 'You have everything.'));
